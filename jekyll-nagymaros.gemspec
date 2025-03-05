@@ -4,10 +4,9 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-nagymaros"
   spec.version       = "3.3.1"
   spec.authors       = ["piazzai"]
-  spec.email         = ["42124135+piazzai@users.noreply.github.com"]
-
+  spec.email         = [""]
   spec.summary       = "Jekyll theme for a conference website"
-  spec.homepage      = "https://github.com/piazzai/jekyll-nagymaros"
+  spec.homepage      = "https://youngstatmlseminar.github.io/website/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_data|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
