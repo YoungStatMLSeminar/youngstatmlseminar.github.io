@@ -4,6 +4,7 @@ baseurl: /youngstatmlseminar
 url: https://youngstatmlseminar.github.io
 
 permalink: pretty
+theme: minimal-mistakes-jekyll
 
 home: /
 copyright: Place Holder
