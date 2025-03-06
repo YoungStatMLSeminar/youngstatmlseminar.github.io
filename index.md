@@ -49,7 +49,9 @@ layout: post
 <body>
     <div class="container">
         <div class="image">
-            <img src="images/Radcam.jpeg" >
+        <a href="https://youngstatmlseminar.github.io/website/">
+            <img src="images/Radcam.jpeg">
+        </a>
         </div>
         <div class="text">
             <h2>Young Statisticians Seminar</h2>
