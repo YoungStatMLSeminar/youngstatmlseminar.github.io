@@ -2,7 +2,6 @@
 title: Young Statisticians Seminar
 layout: default
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +15,7 @@ layout: default
             margin: auto;
         }
         .image {
-            flex: 1;
+            flex: 8;
             padding-right: 20px;
         }
         .text {
@@ -26,6 +25,20 @@ layout: default
             max-width: 100%;
             height: auto;
             border-radius: 10px;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 15px 25px;
+            background-color: black;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            display: block;
+            width: fit-content;
         }
     </style>
 </head>
@@ -37,6 +50,7 @@ layout: default
         <div class="text">
             <h2>Young Statisticians Seminar</h2>
             <p>Department of Statistics, University of Oxford</p>
+            <a href="#" class="button">Click Here</a>
         </div>
     </div>
 </body>
