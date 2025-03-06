@@ -1,5 +1,5 @@
 ---
-title: Young Statisticians Seminar
+title: ''
 layout: post
 ---
 <html lang="en">
