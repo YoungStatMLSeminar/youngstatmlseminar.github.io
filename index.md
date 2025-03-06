@@ -66,9 +66,9 @@ The Young Statisticians Seminar is a series of junior seminars in which PhD stud
 
 ------
 
-<h1>Seminar's Schedule</h1>
+# Seminar's Schedule
 
-For any question or request please contact [Valentin Kilian](kilian@stats.ox.ac.uk)
+For any question or request please contact [Valentin Kilian](https://valentinkil.github.io)
 
 <h2>2025</h2>
 
