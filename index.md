@@ -15,7 +15,7 @@ layout: default
             margin: auto;
         }
         .image {
-            flex: 6;
+            flex: 2;
             padding-right: 20px;
         }
         .text {
@@ -58,15 +58,45 @@ layout: default
 
 ------
 
-# Seminar's Schedule
+<h1>Seminar's Schedule</h1>
 
 For any question or request please contact [Valentin Kilian](kilian@stats.ox.ac.uk)
 
-## 2025
+<h2>2025</h2>
 
-| Date  | Time | Location |Title | Speaker |
-| --- | ---| --- | ---| ---|
-| 05/03 | 11:00| Second floor Social Area, Department of Statistics  | **The predictive approach to uncertainty quantification**  | Vik Shirvaikar|
-| 12/03 | 16:00 | Roy Griffiths Room, Keble College | **Introduction to parameter estimation on random graphs**  | Adrian Fischer |
-| 12/03 | 16:30 | Roy Griffiths Room, Keble College | Modelling **Extremely Sparse Networks with Random Measures**  | Valentin Kilian |
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px; border: 1px solid #ddd;">Date</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Time</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Location</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Title</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Speaker</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">05/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Social Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>The predictive approach to uncertainty quantification</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Vik Shirvaikar</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">12/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Roy Griffiths Room, Keble College</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Introduction to parameter estimation on random graphs</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Adrian Fischer</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">12/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Roy Griffiths Room, Keble College</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Modelling Extremely Sparse Networks with Random Measures</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Valentin Kilian</td>
+    </tr>
+  </tbody>
+</table>
+
 
