@@ -31,8 +31,8 @@ layout: post
         .button {
             display: inline-block;
             margin-top: 10px;
-            padding: 15px 25px;
-            background-color: black;
+            padding: 10px 20px;
+            background-color: #e8e8e8;
             color: white;
             text-decoration: none;
             border-radius: 10px;
