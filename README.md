@@ -1,1 +1,0 @@
-Young Statisticians seminar website
