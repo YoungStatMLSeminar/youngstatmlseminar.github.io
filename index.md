@@ -50,11 +50,22 @@ layout: default
         <div class="text">
             <h2>Young Statisticians Seminar</h2>
             <p>Department of Statistics, University of Oxford</p>
-            <a href="#" class="button">Click Here</a>
+            <a href="#seminars-schedule" class="button">Seminar's schedule</a>
         </div>
     </div>
 </body>
 </html>
 
 ------
+
+# Seminar's Schedule
+
+For any question oe request please contact [Valentin Kilian](kilian@stats.ox.ac.uk)
+
+## 2025
+| Date  | Time | Location |Title | Speaker |
+| --- | ---| --- | ---| ---| ---|
+| 05/03 | 11:00| Second floor Social Area, Department of Statistics  | **The predictive approach to uncertainty quantification**  | Vik Shirvaikar|
+| 12/03 | 16:00 | Roy Griffiths Room, Keble College | Introduction to parameter estimation on random graphs  | Adrian Fischer |
+| 12/03 | 16:30 | Roy Griffiths Room, Keble College | Modelling Extremely Sparse Networks with Random Measures  | Valentin Kilian |
 
