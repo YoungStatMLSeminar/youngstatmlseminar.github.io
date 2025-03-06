@@ -32,7 +32,7 @@ layout: post
             display: inline-block;
             margin-top: 10px;
             padding: 10px 20px;
-            background-color: #e8e8e8;
+            background-color: #f2f2f2;
             color: white;
             text-decoration: none;
             border-radius: 10px;
@@ -45,6 +45,7 @@ layout: post
     </style>
 </head>
 <body>
+<center>
     <div class="container">
         <div class="image">
             <img src="images/Radcam.jpeg" >
@@ -56,6 +57,7 @@ layout: post
         </div>
     </div>
 </body>
+</center>
 </html>
 
 ------
