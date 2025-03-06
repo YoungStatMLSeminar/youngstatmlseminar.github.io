@@ -1,1 +1,1 @@
-Oxford Young StatML Seminar website
+Young Statisticians seminar website
