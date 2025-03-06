@@ -28,24 +28,25 @@ layout: post
             height: auto;
             border-radius: 10px;
         }
-        .button {
-            display: inline-block;
-            margin-top: 10px;
-            padding: 10px 20px;
-            background-color: #f2f2f2;
-            color: white;
-            text-decoration: none;
-            border-radius: 10px;
-            font-size: 16px;
-            font-weight: bold;
-            text-align: center;
-            display: block;
-            width: fit-content;
-        }
+.button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #f2f2f2;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
     </style>
 </head>
 <body>
-<center>
     <div class="container">
         <div class="image">
             <img src="images/Radcam.jpeg" >
@@ -57,8 +58,11 @@ layout: post
         </div>
     </div>
 </body>
-</center>
 </html>
+
+-----
+
+The Young Statisticians Seminar is a series of junior seminars in which PhD students and postdocs from the University of Oxford working on statistics and machine learning present their research in an accessible manner. The aim is to provide insight into each other's work and foster potential collaborations.
 
 ------
 
