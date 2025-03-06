@@ -15,7 +15,7 @@ layout: default
             margin: auto;
         }
         .image {
-            flex: 8;
+            flex: 6;
             padding-right: 20px;
         }
         .text {
