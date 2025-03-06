@@ -60,12 +60,13 @@ layout: default
 
 # Seminar's Schedule
 
-For any question oe request please contact [Valentin Kilian](kilian@stats.ox.ac.uk)
+For any question or request please contact [Valentin Kilian](kilian@stats.ox.ac.uk)
 
 ## 2025
+
 | Date  | Time | Location |Title | Speaker |
-| --- | ---| --- | ---| ---| ---|
+| --- | ---| --- | ---| ---|
 | 05/03 | 11:00| Second floor Social Area, Department of Statistics  | **The predictive approach to uncertainty quantification**  | Vik Shirvaikar|
-| 12/03 | 16:00 | Roy Griffiths Room, Keble College | Introduction to parameter estimation on random graphs  | Adrian Fischer |
-| 12/03 | 16:30 | Roy Griffiths Room, Keble College | Modelling Extremely Sparse Networks with Random Measures  | Valentin Kilian |
+| 12/03 | 16:00 | Roy Griffiths Room, Keble College | **Introduction to parameter estimation on random graphs**  | Adrian Fischer |
+| 12/03 | 16:30 | Roy Griffiths Room, Keble College | Modelling **Extremely Sparse Networks with Random Measures**  | Valentin Kilian |
 
