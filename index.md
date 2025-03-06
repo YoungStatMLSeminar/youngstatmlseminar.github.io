@@ -1,6 +1,6 @@
 ---
 title: Young Statisticians Seminar
-layout: default
+layout: post
 ---
 <html lang="en">
 <head>
