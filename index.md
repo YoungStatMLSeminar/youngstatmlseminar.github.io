@@ -13,6 +13,8 @@ layout: default
             align-items: center;
             max-width: 800px;
             margin: auto;
+            justify-content: center;
+            text-align: center;
         }
         .image {
             flex: 2;
