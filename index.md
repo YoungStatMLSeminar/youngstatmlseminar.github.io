@@ -49,7 +49,7 @@ layout: post
 <body>
     <div class="container">
         <div class="image">
-        <a href="https://youngstatmlseminar.github.io/website/">
+        <a href="https://youngstatmlseminar.github.io/">
             <img src="images/Radcam.jpeg">
         </a>
         </div>
