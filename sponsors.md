@@ -1,7 +1,7 @@
 ---
-title: 'Sponsor'
+title: 'Sponsors'
 layout: post
-permalink: /sponsor/
+permalink: /sponsors/
 ---
 <html lang="en">
 <head>
