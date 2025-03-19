@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Committee'
 layout: post
 permalink: /committee/
 ---

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Sponsor'
 layout: post
 permalink: /sponsor/
 ---
