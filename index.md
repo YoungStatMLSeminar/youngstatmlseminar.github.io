@@ -33,7 +33,7 @@ layout: post
     margin-top: 10px;
     padding: 10px 20px;
     background-color: #f2f2f2;
-    color: white;
+    color: black;
     text-decoration: none;
     border-radius: 10px;
     font-size: 16px;
