@@ -1,6 +1,7 @@
 ---
 title: ''
 layout: post
+permalink: /sponsor/
 ---
 <html lang="en">
 <head>

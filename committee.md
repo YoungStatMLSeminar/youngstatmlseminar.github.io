@@ -1,6 +1,7 @@
 ---
 title: ''
 layout: post
+permalink: /committee/
 ---
 <html lang="en">
 <head>
