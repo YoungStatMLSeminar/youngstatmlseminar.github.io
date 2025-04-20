@@ -85,13 +85,21 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
     </tr>
   </thead>
   <tbody>
+   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+    <b>Keynote Talk</b>
+  </td>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">05/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Social Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>The predictive approach to uncertainty quantification</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b> The predictive approach to uncertainty quantification</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Vik Shirvaikar</td>
     </tr>
+    <tr>
+  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+    <b>Random Graphs</b>
+  </td>
+</tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">12/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
@@ -106,6 +114,9 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Modelling Extremely Sparse Networks with Random Measures</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Valentin Kilian</td>
     </tr>
+      <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+    <b>Diffusion Model</b>
+  </td>
      <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">26/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
@@ -121,6 +132,34 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">Tyler Farghly</td>
     </tr>
   </tbody>
+  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+    <b>Keynote Talk</b>
+  </td>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">01/05</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b> TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+    </tr>
+  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+    <b>Citadel PhD Summit Recipients</b>
+  </td>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Peter Potaptchik (1st price) </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+    </tr>
+      </td>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (2nd price) </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+    </tr>
 </table>
 
 
