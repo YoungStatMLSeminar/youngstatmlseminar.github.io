@@ -1,5 +1,5 @@
 ---
-title: 'Committee'
+title: 'Committees'
 layout: post
 permalink: /committee/
 ---
@@ -50,7 +50,7 @@ permalink: /committee/
 
 
 <body>
-  <h2>Executive Committee</h2>
+  <h3>Executive Committee</h3>
   <ul>
     <li><strong>Valentin Kilian</strong> (President)</li>
     <li><strong>Daniel Manela</strong> (Treasurer)</li>
