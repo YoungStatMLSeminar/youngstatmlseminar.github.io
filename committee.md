@@ -50,13 +50,12 @@ permalink: /committee/
 
 
 <body>
-
-## Executive Committee 
-
-Valentin Kilian (President)\
-Daniel Manela (Treasurer)\
-Stefano Cortinovis (Secretary)\
-Jakob Zeitler (Industrial liaison advisor)\
-Jessie Jiang (Industrial liaison advisor)
-
+  <h2>Executive Committee</h2>
+  <ul>
+    <li><strong>Valentin Kilian</strong> (President)</li>
+    <li><strong>Daniel Manela</strong> (Treasurer)</li>
+    <li><strong>Stefano Cortinovis</strong> (Secretary)</li>
+    <li><strong>Jakob Zeitler</strong> (Industrial Liaison Advisor)</li>
+    <li><strong>Jessie Jiang</strong> (Industrial Liaison Advisor)</li>
+  </ul>
 </body>
