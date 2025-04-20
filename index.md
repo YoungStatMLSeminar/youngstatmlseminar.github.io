@@ -85,7 +85,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
     </tr>
   </thead>
   <tbody>
-   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
     Keynote Talk
   </td>
     <tr>
@@ -96,7 +96,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">Vik Shirvaikar</td>
     </tr>
     <tr>
-  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
     Random Graphs
   </td>
 </tr>
@@ -114,7 +114,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Modelling Extremely Sparse Networks with Random Measures</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Valentin Kilian</td>
     </tr>
-      <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+      <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
     Diffusion Model
   </td>
      <tr>
@@ -132,7 +132,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">Tyler Farghly</td>
     </tr>
   </tbody>
-  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
     Keynote Talk
   </td>
     <tr>
@@ -142,7 +142,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;"><b> TBC</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
     </tr>
-  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
+  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
     Citadel PhD Summit Recipients
   </td>
     <tr>

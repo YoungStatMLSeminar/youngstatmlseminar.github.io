@@ -49,6 +49,7 @@ permalink: /committee/
 </head>
 
 
+<body>
 
 ## Executive Committee 
 
@@ -57,3 +58,5 @@ Daniel Manela (Treasurer)\
 Stefano Cortinovis (Secretary)\
 Jakob Zeitler (Industrial liaison advisor)\
 Jessie Jiang (Industrial liaison advisor)
+
+</body>
