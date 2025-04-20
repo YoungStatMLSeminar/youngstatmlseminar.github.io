@@ -86,7 +86,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
   </thead>
   <tbody>
    <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
-    <b>Keynote Talk</b>
+    Keynote Talk
   </td>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">05/03</td>
@@ -97,7 +97,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
     </tr>
     <tr>
   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
-    <b>Random Graphs</b>
+    Random Graphs
   </td>
 </tr>
     <tr>
@@ -115,7 +115,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">Valentin Kilian</td>
     </tr>
       <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
-    <b>Diffusion Model</b>
+    Diffusion Model
   </td>
      <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">26/03</td>
@@ -133,7 +133,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
     </tr>
   </tbody>
   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
-    <b>Keynote Talk</b>
+    Keynote Talk
   </td>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">01/05</td>
@@ -143,22 +143,22 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
     </tr>
   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: center;">
-    <b>Citadel PhD Summit Recipients</b>
+    Citadel PhD Summit Recipients
   </td>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Peter Potaptchik (1st price) </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Peter Potaptchik (1st place) </td>
     </tr>
       </td>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (2nd price) </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (2nd place) </td>
     </tr>
 </table>
 
