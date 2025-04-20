@@ -72,11 +72,13 @@ The Young Statisticians Seminar is a series of junior seminars in which PhD stud
 
 For any question or request please contact [Valentin Kilian](https://valentinkil.github.io)
 
+
 <h2>2025</h2>
 
 <table style="width:100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px; border: 1px solid #ddd;">Section</th>
       <th style="padding: 8px; border: 1px solid #ddd;">Date</th>
       <th style="padding: 8px; border: 1px solid #ddd;">Time</th>
       <th style="padding: 8px; border: 1px solid #ddd;">Location</th>
@@ -85,22 +87,16 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
     </tr>
   </thead>
   <tbody>
-   <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
-    Keynote Talk
-  </td>
     <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote</td>
       <td style="padding: 8px; border: 1px solid #ddd;">05/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Social Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b> The predictive approach to uncertainty quantification</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>The predictive approach to uncertainty quantification</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Vik Shirvaikar</td>
     </tr>
     <tr>
-  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
-    Random Graphs
-  </td>
-</tr>
-    <tr>
+      <td rowspan="2" style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Random Graphs</td>
       <td style="padding: 8px; border: 1px solid #ddd;">12/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Roy Griffiths Room, Keble College</td>
@@ -114,52 +110,43 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Modelling Extremely Sparse Networks with Random Measures</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Valentin Kilian</td>
     </tr>
-      <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
-    Diffusion Model
-  </td>
-     <tr>
+    <tr>
+      <td rowspan="2" style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Diffusion Models</td>
       <td style="padding: 8px; border: 1px solid #ddd;">26/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Diffusing through life, mindless and careless</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Chris Williams</td>
-        </tr>
-        <tr>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">26/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Understanding generalisation in diffusion models</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Tyler Farghly</td>
     </tr>
-  </tbody>
-  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
-    Keynote Talk
-  </td>
     <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote</td>
       <td style="padding: 8px; border: 1px solid #ddd;">01/05</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b> TBC</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Amitis Shidani</td>
     </tr>
-  <td colspan="5" style="padding: 8px; border: 1px solid #ddd; text-align: left;">
-    Citadel PhD Summit Recipients
-  </td>
+    <tr>
+      <td rowspan="2" style="writing-mode: vertical-rl; transform: rotate(180deg); padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Citadel PhD <br>Summit Recipients</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Peter Potaptchik (1st place)</td>
+    </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Peter Potaptchik (1st place) </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (2nd place)</td>
     </tr>
-      </td>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (2nd place) </td>
-    </tr>
+  </tbody>
 </table>
-
-
