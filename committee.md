@@ -59,3 +59,21 @@ permalink: /committee/
     <li><strong>Dr. Jessie Jiang</strong> (Industrial Liaison Advisor)</li>
   </ul>
 </body>
+
+
+<body>
+  <h3>Scientific Committee</h3>
+  <ul>
+    <li><strong>Silvia Sapora</strong> (President)</li>
+    <li><strong>Stefano Cortinovis</strong> (Vice President)</li>
+    <li><strong>Vik Shirvaikar</strong> (Vice President)</li>
+    <li><strong>Christopher Williams</strong> (Vice President)</li>
+    <li><strong>Isobel Howard</strong> (External Advisor)</li>
+    <li><strong>Dr. Jakiw Pidstrigach</strong> (Senior Advisor)</li>
+    <li><strong>Dr. Adrian Fischer</strong> (Senior Advisor)</li>
+    <li><strong>Laura Battaglia</strong> (Senior Advisor)</li>
+    <li><strong>Linying Yang</strong> (EDI Lead)</li>
+  </ul>
+</body>
+
+
