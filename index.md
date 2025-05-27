@@ -133,6 +133,14 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;"><b>The interplay of scaling and generalization</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Amitis Shidani</td>
     </tr>
+        <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">30/05</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Beating the odds: flexible models for predicting football scores</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Nick Zhang (University College Dublin)</td>
+    </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Citadel PhD <br>Summit Recipients</td>
       <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
