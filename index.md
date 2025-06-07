@@ -54,7 +54,7 @@ layout: post
         </a>
         </div>
         <div class="text">
-            <h2>Young Statisticians Seminar</h2>
+            <h2>Oxford Young Statisticians Seminar</h2>
             <p>Department of Statistics, University of Oxford</p>
             <a href="#seminars-schedule" class="button">Seminar's schedule</a>
         </div>
@@ -64,7 +64,7 @@ layout: post
 
 -----
 
-The Young Statisticians Seminar is a series of junior seminars in which PhD students and postdocs from the University of Oxford working on statistics and machine learning present their research in an accessible manner. The aim is to provide insight into each other's work and foster potential collaborations.
+The Oxford Young Statisticians Seminar (OxYSS) is a series of junior seminars in which PhD students and postdocs from the University of Oxford working on statistics and machine learning present their research in an accessible manner. The aim is to provide insight into each other's work and foster potential collaborations.
 
 ------
 
