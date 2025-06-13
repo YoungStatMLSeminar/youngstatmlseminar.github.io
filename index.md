@@ -91,7 +91,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
       <td style="padding: 8px; border: 1px solid #ddd;">05/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Social Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>The predictive approach to uncertainty quantification</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Vik Shirvaikar</td>
     </tr>
@@ -129,7 +129,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
       <td style="padding: 8px; border: 1px solid #ddd;">01/05</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Social Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>The interplay of scaling and generalization</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Amitis Shidani</td>
     </tr>
@@ -142,19 +142,19 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">Nick Zhang (University College Dublin)</td>
     </tr>
     <tr>
-      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Citadel PhD <br>Summit Recipients</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Statistics meet <br>Probability</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">18/06</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Peter Potaptchik (1st place)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Léo Tyrpak (Probability)</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBC</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">18/06</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">12:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (2nd place)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (Statistics)</td>
     </tr>
   </tbody>
 </table>
