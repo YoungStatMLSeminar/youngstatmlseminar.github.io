@@ -146,14 +146,14 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">18/06</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Introduction to the Parabolic Anderson Model</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Léo Tyrpak (Probability)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">18/06</td>
       <td style="padding: 8px; border: 1px solid #ddd;">12:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBC</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Spectral Clustering for Directed Graphs</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (Statistics)</td>
     </tr>
   </tbody>
