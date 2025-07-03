@@ -150,11 +150,26 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">Léo Tyrpak (Probability)</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">18/06</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">09/07</td>
       <td style="padding: 8px; border: 1px solid #ddd;">12:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Spectral Clustering for Directed Graphs</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ning Zhang (Statistics)</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Causal Inference</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">09/07</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>A vibes based introduction to causal inference</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Daniel Manela</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">18/06</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">17:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>A Latent Causal Inference Framework for Ordinal Variables</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Martina Scauda (University of Cambridge)</td>
     </tr>
   </tbody>
 </table>
