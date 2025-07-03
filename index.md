@@ -168,7 +168,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;">09/07</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>A Latent Causal Inference Framework for Ordinal Variables</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>A latent causal inference framework for ordinal variables</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Martina Scauda (University of Cambridge)</td>
     </tr>
   </tbody>
