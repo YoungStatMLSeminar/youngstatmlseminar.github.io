@@ -40,7 +40,7 @@ layout: post
     font-weight: bold;
     text-align: center;
     display: block;
-    width: fit-content;
+    width: 220px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -58,6 +58,7 @@ layout: post
             <p>Department of Statistics, University of Oxford</p>
             <a href="#seminars-schedule" class="button">Seminar's schedule</a>
             <a href="https://calendar.google.com/calendar/embed?src=347c36cbc0ad2ebc90e3f704e0faa0b2d60b367fc083903ccbbcc51deb60db9a%40group.calendar.google.com&ctz=Europe%2FLondon" class="button">Google Calendar</a>
+            </a>
         </div>
     </div>
 </body>
@@ -71,7 +72,9 @@ The Oxford Young Statisticians Seminar (OxYSS) is a series of junior seminars in
 
 # Seminar's Schedule
 
-For any question or request please contact [Valentin Kilian](https://valentinkil.github.io)
+For any question or request please contact [Valentin Kilian](https://valentinkil.github.io).
+
+You can also subscribe to our [Google Calendar](https://calendar.google.com/calendar/embed?src=347c36cbc0ad2ebc90e3f704e0faa0b2d60b367fc083903ccbbcc51deb60db9a%40group.calendar.google.com&ctz=Europe%2FLondon).
 
 
 <h2>2025</h2>
