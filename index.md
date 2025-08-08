@@ -57,6 +57,7 @@ layout: post
             <h2>Oxford Young Statisticians Seminar</h2>
             <p>Department of Statistics, University of Oxford</p>
             <a href="#seminars-schedule" class="button">Seminar's schedule</a>
+            <a href="https://calendar.google.com/calendar/embed?src=347c36cbc0ad2ebc90e3f704e0faa0b2d60b367fc083903ccbbcc51deb60db9a%40group.calendar.google.com&ctz=Europe%2FLondon" class="button">Google Calendar</a>
         </div>
     </div>
 </body>
@@ -182,7 +183,7 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
          <tr>
       <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">20/08</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Sophia Loizidou  (University of Luxembourg)</td>
