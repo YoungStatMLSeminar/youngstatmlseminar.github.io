@@ -58,7 +58,6 @@ layout: post
             <p>Department of Statistics, University of Oxford</p>
             <a href="#seminars-schedule" class="button">Seminar's schedule</a>
             <a href="https://calendar.google.com/calendar/embed?src=347c36cbc0ad2ebc90e3f704e0faa0b2d60b367fc083903ccbbcc51deb60db9a%40group.calendar.google.com&ctz=Europe%2FLondon" class="button">Google Calendar</a>
-            </a>
         </div>
     </div>
 </body>
