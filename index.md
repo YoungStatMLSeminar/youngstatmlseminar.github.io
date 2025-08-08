@@ -57,7 +57,7 @@ layout: post
             <h2>Oxford Young Statisticians Seminar</h2>
             <p>Department of Statistics, University of Oxford</p>
             <a href="#seminars-schedule" class="button">Seminar's schedule</a>
-            <a href="https://calendar.google.com/calendar/embed?src=347c36cbc0ad2ebc90e3f704e0faa0b2d60b367fc083903ccbbcc51deb60db9a%40group.calendar.google.com&ctz=Europe%2FLondon" class="button">Google Calendar</a>
+            <a href="https://calendar.google.com/calendar/u/1?cid=MzQ3YzM2Y2JjMGFkMmViYzkwZTNmNzA0ZTBmYWEwYjJkNjBiMzY3ZmMwODM5MDNjY2JiY2M1MWRlYjYwZGI5YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" class="button">Google Calendar</a>
         </div>
     </div>
 </body>
@@ -73,7 +73,7 @@ The Oxford Young Statisticians Seminar (OxYSS) is a series of junior seminars in
 
 For any question or request please contact [Valentin Kilian](https://valentinkil.github.io).
 
-You can also subscribe to our [Google Calendar](https://calendar.google.com/calendar/embed?src=347c36cbc0ad2ebc90e3f704e0faa0b2d60b367fc083903ccbbcc51deb60db9a%40group.calendar.google.com&ctz=Europe%2FLondon).
+You can also subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/1?cid=MzQ3YzM2Y2JjMGFkMmViYzkwZTNmNzA0ZTBmYWEwYjJkNjBiMzY3ZmMwODM5MDNjY2JiY2M1MWRlYjYwZGI5YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 
 <h2>2025</h2>
