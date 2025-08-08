@@ -179,5 +179,13 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Partial order hierarchies</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Jessie Jiang  (Google)</td>
     </tr>
+         <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">20/08</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Sophia Loizidou  (University of Luxembourg)</td>
+    </tr>
   </tbody>
 </table>
