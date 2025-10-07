@@ -61,6 +61,14 @@ layout: post
             <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=OXYSS" class="button">Mailing List</a>
         </div>
     </div>
+   <div class="social-links">
+      <a href="https://www.linkedin.com/company/ox-yss" target="_blank" rel="noopener noreferrer" title="Find us on LinkedIn">
+        <i class="fab fa-linkedin fa-lg"></i>
+      </a>
+      <a href="https://x.com/OxfordYss" target="_blank" rel="noopener noreferrer" title="Follow us on Twitter">
+        <i class="fab fa-x-twitter fa-lg"></i>
+      </a>
+    </div>
 </body>
 </html>
 
