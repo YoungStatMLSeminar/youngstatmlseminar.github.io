@@ -132,6 +132,45 @@ a:visited { color: #205caa; }
   top: 3px;
 }
 
+/* Footer Social Links */
+
+.social-links {
+  /* Aligns icons in the center of the wrap container */
+  text-align: center;
+  margin-top: 15px; /* Add some vertical space above the icons */
+  margin-bottom: 15px; /* Add some vertical space below the icons */
+}
+
+.social-links a {
+  /* Spacing between the icons */
+  margin: 0 10px;
+  /* Default icon color - using the footer's default text color */
+  color: #828282; 
+  text-decoration: none; /* Remove underline */
+  display: inline-block;
+  transition: color 0.3s ease; /* Smooth hover transition */
+  font-size: 24px; /* Make the icons a nice size */
+  line-height: 1; /* Helps with vertical alignment */
+}
+
+.social-links a:hover {
+  /* Removes the global underline defined by a:hover */
+  text-decoration: none; 
+}
+
+/* Specific Hover Colors (Optional but Recommended) */
+
+/* LinkedIn hover color */
+.social-links a[title="Find us on LinkedIn"]:hover {
+  color: #0077b5; 
+}
+
+/* Twitter/X hover color */
+.social-links a[title="Follow us on Twitter"]:hover {
+  /* Using a dark color for X logo, or the classic Twitter blue: #1DA1F2 */
+  color: #000000; 
+}
+
 
 /* Page Content styles */
 /* ----------------------------------------------------------*/
