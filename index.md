@@ -191,5 +191,14 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Sophia Loizidou  (University of Luxembourg)</td>
     </tr>
+           <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">22/10</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Attention to Experimentation Is All You Need: What To Do When You Run Out Of Data to Train Your Models With
+</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Jakob Zeitler</td>
+    </tr>
   </tbody>
 </table>
