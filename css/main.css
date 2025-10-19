@@ -171,6 +171,11 @@ a:visited { color: #205caa; }
   color: #000000; 
 }
 
+/* Instagram hover color */
+.social-links a[title="Follow us on Instagram"]:hover {
+  /* You can use any of Instagram's gradient colors like pink #C13584, purple #833AB4, or orange #F56040 */
+  color: #C13584; 
+}
 
 /* Page Content styles */
 /* ----------------------------------------------------------*/
