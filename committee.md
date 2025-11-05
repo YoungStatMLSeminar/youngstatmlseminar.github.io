@@ -53,6 +53,7 @@ permalink: /committee/
   <h3>Executive Committee</h3>
   <ul>
     <li><strong>Valentin Kilian</strong> (President)</li>
+    <li><strong>Christopher Williams</strong> (Vice President)</li>
     <li><strong>Daniel Manela</strong> (Treasurer)</li>
     <li><strong>Stefano Cortinovis</strong> (Secretary)</li>
     <li><strong>Dr. Jakob Zeitler</strong> (Industrial Liaison Advisor)</li>
@@ -67,7 +68,7 @@ permalink: /committee/
   <ul>
     <li><strong>Silvia Sapora</strong> (President)</li>
     <li><strong>Stefano Cortinovis</strong> (Vice President)</li>
-    <li><strong>Christopher Williams</strong> (Vice President)</li>
+    <li><strong>Deepak Badarinath</strong> (Vice President)</li>
     <li><strong>Isobel Howard</strong> (External Advisor)</li>
     <li><strong>Dr. Jakiw Pidstrigach</strong> (Senior Advisor)</li>
     <li><strong>Dr. Adrian Fischer</strong> (Senior Advisor)</li>
