@@ -47,3 +47,6 @@ permalink: /sponsors/
 }
     </style>
 </head>
+
+
+To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president (kilian@stats.ox.ac.uk) or our treasurer (manela@stats.ox.ac.uk).
