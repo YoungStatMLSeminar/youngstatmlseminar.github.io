@@ -49,4 +49,4 @@ permalink: /sponsors/
 </head>
 
 
-To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president ([Valentin Kilian](kilian@stats.ox.ac.uk)) or our treasurer ([Dan Manela](manela@stats.ox.ac.uk)).
+<p>To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president (<a href="mailto:kilian@stats.ox.ac.uk">Valentin Kilian</a>) or our treasurer (<a href="mailto:manela@stats.ox.ac.uk">Dan Manela</a>).</p>
