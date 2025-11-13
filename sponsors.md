@@ -47,30 +47,6 @@ permalink: /sponsors/
     background-color: #e0e0e0;
     margin-bottom: 30px;
 }
-/* Styling for the logo */
-.sponsor-logo {
-    display: block;
-    margin: 20px auto;
-    max-width: 300px; /* Adjust as needed */
-    height: auto;
-    border-radius: 8px;
-}
-.button {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 20px;
-    background-color: #f2f2f2;
-    color: white;
-    text-decoration: none;
-    border-radius: 10px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    display: block;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-}
 </style>
 </head>
 
@@ -85,7 +61,7 @@ permalink: /sponsors/
             <img 
                 src="images/quadrature.png" 
                 alt="Quadrature logo" 
-                class="sponsor-logo"
+                class="image"
             >
         </a>
 
