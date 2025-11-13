@@ -29,6 +29,32 @@ permalink: /sponsors/
             height: auto;
             border-radius: 10px;
         }
+/* Style for the "Gold" title */
+.gold-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    /* A gold-like gradient color */
+    color: #D4AF37; 
+    margin-top: 40px;
+    margin-bottom: 0.5rem;
+}
+/* Style for the horizontal line */
+.separator-line {
+    width: 100%; /* This makes the line adapt to the container's width */
+    border: 0;
+    height: 2px;
+    background-color: #e0e0e0;
+    margin-bottom: 30px;
+}
+/* Styling for the logo */
+.sponsor-logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px; /* Adjust as needed */
+    height: auto;
+    border-radius: 8px;
+}
 .button {
     display: inline-block;
     margin-top: 10px;
@@ -45,8 +71,22 @@ permalink: /sponsors/
     margin-left: auto;
     margin-right: auto;
 }
-    </style>
+</style>
 </head>
 
 
 <p>To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president (<a href="mailto:kilian@stats.ox.ac.uk">Valentin Kilian</a>) or our treasurer (<a href="mailto:manela@stats.ox.ac.uk">Dan Manela</a>).</p>
+
+<h2 class="gold-title">Gold</h2>
+
+<hr class="separator-line">
+
+ <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer" aria-label="Visit Quadrature website">
+            <img 
+                src="images/quadrature.png" 
+                alt="Quadrature logo" 
+                class="sponsor-logo"
+                onerror="this.src='https://placehold.co/300x150/e0e0e0/777?text=Logo+Not+Found'; this.alt='Logo not found'"
+            >
+        </a>
+
