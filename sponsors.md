@@ -3,6 +3,7 @@ title: 'Sponsors'
 layout: post
 permalink: /sponsors/
 ---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -56,9 +57,11 @@ permalink: /sponsors/
 </style>
 </head>
 
-
+<body>
 <p>To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president (<a href="mailto:kilian@stats.ox.ac.uk">Valentin Kilian</a>) or our treasurer (<a href="mailto:manela@stats.ox.ac.uk">Dan Manela</a>).</p>
+</body>
 
+<body>
 <h2 class="gold-title">Gold</h2>
 
 <hr class="separator-line">
@@ -66,3 +69,4 @@ permalink: /sponsors/
  <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer" class="sponsor-link">
             <img src="../images/quadrature.png" class="sponsor-logo">
         </a>
+</body>
