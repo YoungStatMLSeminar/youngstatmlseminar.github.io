@@ -64,10 +64,11 @@ permalink: /sponsors/
 </body>
 
 <body>
-<div class="container">
 <h2 class="gold-title">Gold</h2>
 
 <hr class="separator-line">
+
+<div class="container">
 
 <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer"
    style="border:0;outline:0;box-shadow:none;-webkit-tap-highlight-color:transparent;">
