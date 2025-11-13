@@ -69,3 +69,9 @@ permalink: /sponsors/
             <img src="images/quadrature.png" class="sponsor-logo">
         </a>
 
+<div class="image">
+        <a href="https://youngstatmlseminar.github.io/">
+            <img src="images/Radcam.jpeg">
+        </a>
+        </div>
+
