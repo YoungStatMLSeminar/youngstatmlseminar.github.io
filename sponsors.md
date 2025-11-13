@@ -86,7 +86,6 @@ permalink: /sponsors/
                 src="images/quadrature.png" 
                 alt="Quadrature logo" 
                 class="sponsor-logo"
-                onerror="this.src='https://placehold.co/300x150/e0e0e0/777?text=Logo+Not+Found'; this.alt='Logo not found'"
             >
         </a>
 
