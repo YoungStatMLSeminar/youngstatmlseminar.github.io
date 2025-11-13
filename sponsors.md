@@ -68,7 +68,9 @@ permalink: /sponsors/
 
 <hr class="separator-line">
 
- <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer" class="sponsor-link">
-            <img src="../images/quadrature.png" class="sponsor-logo">
-        </a>
-</body>
+<a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer"
+   style="border:0;outline:0;box-shadow:none;-webkit-tap-highlight-color:transparent;">
+  <img src="../images/quadrature.png"
+       alt="Quadrature logo"
+       style="display:block;border:0;outline:0;box-shadow:none;background:transparent;">
+</a>
