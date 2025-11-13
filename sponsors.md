@@ -43,7 +43,7 @@ permalink: /sponsors/
 .sponsor-logo {
     display: block;
     margin: 20px auto;
-    max-width: 300px; /* Adjust as needed */
+    max-width: 200px; /* Adjust as needed */
     height: auto;
     border: none;
     outline: none;
