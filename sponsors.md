@@ -47,6 +47,7 @@ permalink: /sponsors/
     height: auto;
     border: none;
     outline: none;
+    box-shadow: none;
 }
 .sponsor-link {
     display: block; /* Helps containerize the block-level image */
