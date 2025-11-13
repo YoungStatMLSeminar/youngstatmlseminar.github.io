@@ -17,17 +17,8 @@ permalink: /sponsors/
             justify-content: center;
             text-align: center;
         }
-        .image {
-            flex: 2;
-            padding-right: 20px;
-        }
         .text {
             flex: 2;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
         }
 /* Style for the "Gold" title */
 .gold-title {
