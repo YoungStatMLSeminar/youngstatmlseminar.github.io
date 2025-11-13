@@ -47,6 +47,14 @@ permalink: /sponsors/
     background-color: #e0e0e0;
     margin-bottom: 30px;
 }
+/* Styling for the logo */
+.sponsor-logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px; /* Adjust as needed */
+    height: auto;
+    border-radius: 8px;
+}
 </style>
 </head>
 
@@ -57,11 +65,7 @@ permalink: /sponsors/
 
 <hr class="separator-line">
 
- <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer" aria-label="Visit Quadrature website">
-            <img 
-                src="images/quadrature.png" 
-                alt="Quadrature logo" 
-                class="image"
-            >
+ <a href="https://quadrature.ai">
+            <img src="images/quadrature.png" class="sponsor-logo">
         </a>
 
