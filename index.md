@@ -211,5 +211,15 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
 </b></td>
       <td style="padding: 8px; border: 1px solid #ddd;">Silvia Sapora</td>
     </tr>
+      <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">19/11</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+      Large Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Optimising Optimisation: A New <s>Hope</s> Slope
+</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Kevin Lam</td>
+    </tr>
   </tbody>
 </table>
