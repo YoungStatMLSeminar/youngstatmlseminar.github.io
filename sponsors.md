@@ -54,6 +54,7 @@ permalink: /sponsors/
     max-width: 300px; /* Adjust as needed */
     height: auto;
     border: none;
+    outline: none;
 }
 </style>
 </head>
