@@ -64,6 +64,7 @@ permalink: /sponsors/
 </body>
 
 <body>
+<div class="container">
 <h2 class="gold-title">Gold</h2>
 
 <hr class="separator-line">
@@ -74,4 +75,5 @@ permalink: /sponsors/
        alt="Quadrature logo"
        style="display:block;border:0;outline:0;box-shadow:none;background:transparent;">
 </a>
+</div>
 </body>
