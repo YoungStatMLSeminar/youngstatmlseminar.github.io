@@ -53,7 +53,7 @@ permalink: /sponsors/
     margin: 20px auto;
     max-width: 300px; /* Adjust as needed */
     height: auto;
-    border-radius: 0px;
+    border: none;
 }
 </style>
 </head>
@@ -65,6 +65,6 @@ permalink: /sponsors/
 
 <hr class="separator-line">
 
- <a href="https://quadrature.ai">
+ <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer">
             <img src="../images/quadrature.png" class="sponsor-logo">
         </a>
