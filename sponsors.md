@@ -66,7 +66,7 @@ permalink: /sponsors/
 <hr class="separator-line">
 
  <a href="https://quadrature.ai">
-            <img src="images/quadrature.png" class="sponsor-logo">
+            <img src="../images/quadrature.png" class="sponsor-logo">
         </a>
 
 <div class="image">
