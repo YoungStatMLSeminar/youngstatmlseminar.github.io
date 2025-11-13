@@ -74,3 +74,4 @@ permalink: /sponsors/
        alt="Quadrature logo"
        style="display:block;border:0;outline:0;box-shadow:none;background:transparent;">
 </a>
+</body>
