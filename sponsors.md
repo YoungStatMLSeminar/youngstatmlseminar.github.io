@@ -56,6 +56,12 @@ permalink: /sponsors/
     border: none;
     outline: none;
 }
+.sponsor-link {
+    display: block; /* Helps containerize the block-level image */
+    text-decoration: none; /* Removes underline */
+    border: none; /* Removes any border on the link */
+    outline: none; /* Removes focus outline on the link */
+}
 </style>
 </head>
 
@@ -66,6 +72,6 @@ permalink: /sponsors/
 
 <hr class="separator-line">
 
- <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer">
+ <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer" class="sponsor-link">
             <img src="../images/quadrature.png" class="sponsor-logo">
         </a>
