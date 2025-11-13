@@ -53,6 +53,7 @@ permalink: /sponsors/
     text-decoration: none; /* Removes underline */
     border: none; /* Removes any border on the link */
     outline: none; /* Removes focus outline on the link */
+    box-shadow: none;
 }
 </style>
 </head>
