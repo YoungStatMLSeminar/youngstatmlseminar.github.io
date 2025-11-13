@@ -53,7 +53,7 @@ permalink: /sponsors/
     margin: 20px auto;
     max-width: 300px; /* Adjust as needed */
     height: auto;
-    border-radius: 8px;
+    border-radius: 0px;
 }
 </style>
 </head>
@@ -68,10 +68,3 @@ permalink: /sponsors/
  <a href="https://quadrature.ai">
             <img src="../images/quadrature.png" class="sponsor-logo">
         </a>
-
-<div class="image">
-        <a href="https://youngstatmlseminar.github.io/">
-            <img src="images/Radcam.jpeg">
-        </a>
-        </div>
-
