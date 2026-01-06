@@ -51,7 +51,7 @@ layout: post
         <div class="image">
         <a href="https://youngstatmlseminar.github.io/">
             <img src="images/Radcam.jpeg" class="theme-img light" alt="">
-            <img src="images/Radcam-night.jpg"  class="theme-img dark"  alt="">
+            <img src="images/Radcam-night.jpeg"  class="theme-img dark"  alt="">
         </a>
         </div>
         <div class="text">
