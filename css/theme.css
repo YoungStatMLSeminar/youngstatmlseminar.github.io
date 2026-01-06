@@ -1,0 +1,52 @@
+:root{
+  --bg: #ffffff;
+  --surface: #f7f7f8;
+  --text: #111111;
+  --muted: #555555;
+  --accent: #06f;
+  --shadow: rgba(17,17,17,0.08);
+}
+
+/* dark theme variables */
+:root[data-theme="dark"]{
+  --bg: #0f1113;
+  --surface: #111316;
+  --text: #e6e6e6;
+  --muted: #9aa0a6;
+  --accent: #5ab4ff;
+  --shadow: rgba(0,0,0,0.6);
+}
+
+html,body{
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* example surface */
+.card{
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: 0 6px 18px var(--shadow);
+}
+
+/* optional: style the toggle button */
+.theme-toggle{
+  border: none;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 1rem;
+  padding: .25rem .5rem;
+}
+
+/* Respect user preferred color scheme if no explicit selection */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-user-theme]) {
+    --bg: #0f1113;
+    --surface: #111316;
+    --text: #e6e6e6;
+    --muted: #9aa0a6;
+    --accent: #5ab4ff;
+    --shadow: rgba(0,0,0,0.6);
+  }
+}
