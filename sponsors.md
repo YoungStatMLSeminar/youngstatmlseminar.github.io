@@ -53,10 +53,12 @@ permalink: /sponsors/
     <img src="/images/quadrature.png"
          alt="Quadrature logo (light)"
          class="sponsor-logo light"
+         style="display:block;border:0;outline:0;box-shadow:none;background:transparent;"
          loading="lazy">
     <img src="/images/quadrature-night.png"
          alt="Quadrature logo (dark)"
          class="sponsor-logo dark"
+         style="display:block;border:0;outline:0;box-shadow:none;background:transparent;"
          loading="lazy">
   </a>
 </div>
