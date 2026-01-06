@@ -31,14 +31,6 @@ permalink: /sponsors/
     margin-top: 40px;
     margin-bottom: 0.5rem;
 }
-/* Style for the horizontal line */
-.separator-line {
-    width: 100%; /* This makes the line adapt to the container's width */
-    border: 0;
-    height: 2px;
-    background-color: #e0e0e0;
-    margin-bottom: 30px;
-}
 /* Styling for the logo */
 .sponsor-logo {
     display: block;
@@ -66,8 +58,7 @@ permalink: /sponsors/
 <body>
 <h2 class="gold-title">Gold</h2>
 
-<hr class="separator-line">
-
+-----
 <div class="container">
 
 <a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer"
