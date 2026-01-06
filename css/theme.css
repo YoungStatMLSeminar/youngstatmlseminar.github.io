@@ -62,3 +62,22 @@ html,body{
   color: var(--text);
   border-color: #333;
 }
+
+
+/* =========================
+   THEME-DEPENDENT IMAGES
+   ========================= */
+
+/* default (light mode) */
+.theme-img.dark {
+  display: none;
+}
+
+/* dark mode */
+:root[data-theme="dark"] .theme-img.light {
+  display: none;
+}
+
+:root[data-theme="dark"] .theme-img.dark {
+  display: inline-block;
+}
