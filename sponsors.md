@@ -4,68 +4,23 @@ layout: post
 permalink: /sponsors/
 ---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image and Text Layout</title>
-    <style>
-        .container {
-            display: flex;
-            align-items: center;
-            max-width: 800px;
-            margin: auto;
-            justify-content: center;
-            text-align: center;
-        }
-        .text {
-            flex: 2;
-        }
-/* Style for the "Gold" title */
-.gold-title {
-    text-align: center;
-    font-size: 2.5rem;
-    font-weight: 700;
-    /* A gold-like gradient color */
-    color: #D4AF37; 
-    margin-top: 40px;
-    margin-bottom: 0.5rem;
-}
-/* Styling for the logo */
-.sponsor-logo {
-    display: block;
-    margin: 20px auto;
-    max-width: 200px; /* Adjust as needed */
-    height: auto;
-    border: none;
-    outline: none;
-    box-shadow: none;
-}
-.sponsor-link {
-    display: block; /* Helps containerize the block-level image */
-    text-decoration: none; /* Removes underline */
-    border: none; /* Removes any border on the link */
-    outline: none; /* Removes focus outline on the link */
-    box-shadow: none;
-}
-</style>
-</head>
-
-<body>
 <p>To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president (<a href="mailto:kilian@stats.ox.ac.uk">Valentin Kilian</a>) or our treasurer (<a href="mailto:manela@stats.ox.ac.uk">Dan Manela</a>).</p>
-</body>
 
-<body>
 <h2 class="gold-title">Gold</h2>
 
 -----
-<div class="container">
 
-<a href="https://quadrature.ai" target="_blank" rel="noopener noreferrer"
-   style="border:0;outline:0;box-shadow:none;-webkit-tap-highlight-color:transparent;">
-  <img src="../images/quadrature.png"
-       alt="Quadrature logo"
-       style="display:block;border:0;outline:0;box-shadow:none;background:transparent;">
-</a>
+<div class="sponsor">
+  <a class="sponsor-link" href="https://quadrature.ai" target="_blank" rel="noopener noreferrer">
+    <img src="/images/quadrature.png"
+         alt="Quadrature logo (light)"
+         class="sponsor-logo light"
+         loading="lazy">
+    <img src="/images/quadrature-night.png"
+         alt="Quadrature logo (dark)"
+         class="sponsor-logo dark"
+         loading="lazy">
+  </a>
 </div>
-</body>
+
+<!-- Add more sponsors following the same pattern -->

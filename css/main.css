@@ -482,3 +482,19 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+
+/* SPONSOR LOGOS - theme-aware */
+.sponsor {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.sponsor-logo {
+  display: inline-block;
+  max-height: 80px; /* adjust as needed */
+  width: auto;
+  vertical-align: middle;
+}
+
+
