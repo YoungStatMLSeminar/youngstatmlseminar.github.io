@@ -1,51 +1,29 @@
+// theme-toggle.js
 (function () {
-  const ROOT = document.documentElement;
-  const storageKey = 'site-theme'; // value: 'dark' or 'light' or null
+  const btn = document.querySelector('.theme-toggle');
+  const root = document.documentElement;
 
-  function applyTheme(theme, save = true) {
+  if (!btn) return;
+
+  function setTheme(theme) {
     if (theme === 'dark') {
-      ROOT.setAttribute('data-theme', 'dark');
+      root.setAttribute('data-theme', 'dark');
+      localStorage.setItem('theme', 'dark');
+      btn.setAttribute('aria-pressed', 'true');
     } else {
-      ROOT.removeAttribute('data-theme');
+      root.removeAttribute('data-theme');
+      localStorage.setItem('theme', 'light');
+      btn.setAttribute('aria-pressed', 'false');
     }
-    // Mark that user explicitly chose (so prefers-color-scheme fallback won't override)
-    if (save) {
-      localStorage.setItem(storageKey, theme);
-      ROOT.setAttribute('data-user-theme', theme);
-    } else {
-      ROOT.removeAttribute('data-user-theme');
-      localStorage.removeItem(storageKey);
-    }
-    // update toggle aria-pressed if exists
-    const btn = document.querySelector('.theme-toggle');
-    if (btn) btn.setAttribute('aria-pressed', theme === 'dark');
   }
 
-  function getPreferredTheme() {
-    const saved = localStorage.getItem(storageKey);
-    if (saved === 'dark' || saved === 'light') return saved;
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      return 'dark';
-    }
-    return 'light';
-  }
+  // Sync button state with already-applied theme
+  const isDark = root.getAttribute('data-theme') === 'dark';
+  btn.setAttribute('aria-pressed', isDark ? 'true' : 'false');
 
-  // initial
-  applyTheme(getPreferredTheme(), false);
-
-  // attach toggle behavior to any .theme-toggle button
-  document.addEventListener('click', (e) => {
-    const btn = e.target.closest('.theme-toggle');
-    if (!btn) return;
-    const current = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
-    const next = current === 'dark' ? 'light' : 'dark';
-    applyTheme(next, true);
-  });
-
-  // if you want live sync across tabs
-  window.addEventListener('storage', (e) => {
-    if (e.key === storageKey) {
-      applyTheme(e.newValue === 'dark' ? 'dark' : 'light', false);
-    }
+  // Toggle on click
+  btn.addEventListener('click', () => {
+    const currentlyDark = root.getAttribute('data-theme') === 'dark';
+    setTheme(currentlyDark ? 'light' : 'dark');
   });
 })();
