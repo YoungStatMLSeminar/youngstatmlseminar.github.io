@@ -488,6 +488,9 @@ a:visited { color: #205caa; }
 .sponsor {
   text-align: center;
   margin: 1.5rem 0;
+  border: none; /* Removes any border on the link */
+  outline: none; /* Removes focus outline on the link */
+  box-shadow: none;
 }
 
 .sponsor-logo {
@@ -495,6 +498,9 @@ a:visited { color: #205caa; }
   max-height: 80px; /* adjust as needed */
   width: auto;
   vertical-align: middle;
+  border: none;
+  outline: none;
+  box-shadow: none;
 }
 
 

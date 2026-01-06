@@ -3,7 +3,38 @@ title: 'Sponsors'
 layout: post
 permalink: /sponsors/
 ---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Text Layout</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+            max-width: 800px;
+            margin: auto;
+            justify-content: center;
+            text-align: center;
+        }
+        .text {
+            flex: 2;
+        }
+/* Style for the "Gold" title */
+.gold-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    /* A gold-like gradient color */
+    color: #D4AF37; 
+    margin-top: 40px;
+    margin-bottom: 0.5rem;
+}
+</style>
+</head>
 
+
+<body>
 <p>To discuss potential sponsorships or for any other queries, please do not hesitate to reach out our president (<a href="mailto:kilian@stats.ox.ac.uk">Valentin Kilian</a>) or our treasurer (<a href="mailto:manela@stats.ox.ac.uk">Dan Manela</a>).</p>
 
 <h2 class="gold-title">Gold</h2>
@@ -24,3 +55,5 @@ permalink: /sponsors/
 </div>
 
 <!-- Add more sponsors following the same pattern -->
+
+</body>
