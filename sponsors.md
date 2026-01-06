@@ -55,11 +55,11 @@ permalink: /sponsors/
          class="sponsor-logo light"
          style="display:block;border:0;outline:0;box-shadow:none;background:transparent;"
          loading="lazy">
-    <img src="/images/quadrature-night.png"
+    <!-- <img src="/images/quadrature-night.png"
          alt="Quadrature logo (dark)"
          class="sponsor-logo dark"
          style="display:block;border:0;outline:0;box-shadow:none;background:transparent;"
-         loading="lazy">
+         loading="lazy"> -->
   </a>
 </div>
 
