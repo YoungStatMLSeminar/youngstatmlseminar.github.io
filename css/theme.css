@@ -50,3 +50,15 @@ html,body{
     --shadow: rgba(0,0,0,0.6);
   }
 }
+
+/* =========================
+   TABLE: DARK MODE OVERRIDE
+   ========================= */
+
+:root[data-theme="dark"] table,
+:root[data-theme="dark"] table th,
+:root[data-theme="dark"] table td {
+  background-color: #000;
+  color: var(--text);
+  border-color: #333;
+}
