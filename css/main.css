@@ -446,6 +446,10 @@ a:visited { color: #205caa; }
     padding: 10px 12px;
   }
 
+  .page-content {
+  padding-top: 20px;
+}
+
   .site-header .container {
     display: flex;
     flex-direction: column;
