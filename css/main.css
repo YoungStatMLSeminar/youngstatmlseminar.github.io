@@ -494,6 +494,7 @@ a:visited { color: #205caa; }
 }
 
 .sponsor-logo {
+  text-align: center;
   display: inline-block;
   max-height: 80px; /* adjust as needed */
   width: auto;
