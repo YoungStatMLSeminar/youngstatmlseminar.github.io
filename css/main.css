@@ -486,7 +486,8 @@ a:visited { color: #205caa; }
 
 /* SPONSOR LOGOS - theme-aware */
 .sponsor {
-  text-align: center;
+  display: flex;
+  justify-content: center; 
   margin: 1.5rem 0;
   border: none; /* Removes any border on the link */
   outline: none; /* Removes focus outline on the link */
@@ -494,7 +495,6 @@ a:visited { color: #205caa; }
 }
 
 .sponsor-logo {
-  text-align: center;
   display: inline-block;
   max-height: 80px; /* adjust as needed */
   width: auto;
@@ -505,6 +505,8 @@ a:visited { color: #205caa; }
 }
 
 .sponsor-link {
-  display: block;
-  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
