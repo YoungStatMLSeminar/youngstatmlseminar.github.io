@@ -48,6 +48,7 @@ permalink: /sponsors/
 <h2 class="gold-title">Gold</h2>
 
 <hr class="separator-line">
+
 <div class="sponsor">
   <a class="sponsor-link" href="https://quadrature.ai" target="_blank" rel="noopener noreferrer">
     <img src="/images/quadrature.png"

@@ -504,4 +504,7 @@ a:visited { color: #205caa; }
   box-shadow: none;
 }
 
-
+.sponsor-link {
+  display: block;
+  text-align: center;
+}
