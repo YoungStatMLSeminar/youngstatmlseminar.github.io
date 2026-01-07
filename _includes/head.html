@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="color-scheme" content="light dark">
+<style>
+  /* tell the browser we provide both light & dark color schemes */
+  html { color-scheme: light dark; }
+</style>
 
 <link
   href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css"

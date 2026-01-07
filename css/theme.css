@@ -1,3 +1,7 @@
+/* help the UA know we support both schemes */
+html { color-scheme: light dark; }
+
+
 :root{
   --bg: #ffffff;
   --surface: #f7f7f8;
