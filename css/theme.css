@@ -93,3 +93,32 @@ html,body{
 :root[data-theme="dark"] .sponsor-logo.light[loading="lazy"]:not([data-dark-exists]) {
   filter: invert(1) brightness(1.1);
 }
+
+.theme-toggle {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: var(--text);
+  padding: 0;
+}
+
+.theme-toggle i {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+/* visible icon */
+.theme-toggle i.active {
+  opacity: 1;
+  transform: scale(1);
+}
