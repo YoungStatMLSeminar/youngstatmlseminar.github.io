@@ -510,3 +510,48 @@ a:visited { color: #205caa; }
   justify-content: center;
   text-decoration: none;
 }
+
+
+/* =========================
+   RESPONSIVE HEADER FIX
+   ========================= */
+
+@media screen and (max-width: 600px) {
+
+  .site-header {
+    height: auto;
+    padding: 10px 12px;
+  }
+
+  .site-header .container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  /* Navigation: centered row */
+  .site-nav ul {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .site-nav a {
+    font-size: 15px;
+  }
+
+  /* Social + theme toggle row */
+  .header-social-links {
+    justify-content: center;
+    gap: 14px;
+  }
+
+  .theme-toggle {
+    width: 28px;
+    height: 28px;
+  }
+
+  .theme-toggle i {
+    font-size: 18px;
+  }
+}
