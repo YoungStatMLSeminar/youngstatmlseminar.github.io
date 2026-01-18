@@ -77,6 +77,31 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
 
 You can also subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/1?cid=MzQ3YzM2Y2JjMGFkMmViYzkwZTNmNzA0ZTBmYWEwYjJkNjBiMzY3ZmMwODM5MDNjY2JiY2M1MWRlYjYwZGI5YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
+<h2>2026</h2>
+
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px; border: 1px solid #ddd;">Section</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Date</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Time</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Location</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Title</th>
+      <th style="padding: 8px; border: 1px solid #ddd;">Speaker</th>
+    </tr>
+  </thead>
+  <tbody>
+        <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">19/01</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Score-based generative emulation of impact-relevant Earth system model outputs</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Shahine Bouabid (MIT)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h2>2025</h2>
 
