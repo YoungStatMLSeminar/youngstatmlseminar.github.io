@@ -91,13 +91,13 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
     </tr>
   </thead>
   <tbody>
-        <tr>
+    <tr>
       <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">19/01</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Score-based generative emulation of impact-relevant Earth system model outputs</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Shahine Bouabid](https://shahineb.github.io) (MIT)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://shahineb.github.io">Shahine Bouabid</a> (MIT)</td>
     </tr>
   </tbody>
 </table>
@@ -123,7 +123,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>The predictive approach to uncertainty quantification</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Vik Shirvaikar](https://www.linkedin.com/in/vik-shirvaikar/)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/vik-shirvaikar/">Vik Shirvaikar</a></td>
     </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Random Graphs</td>
@@ -138,7 +138,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Roy Griffiths Room, Keble College</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Modelling Extremely Sparse Networks with Random Measures</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Valentin Kilian](https://valentinkil.github.io)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://valentinkil.github.io">Valentin Kilian</a></td>
     </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Diffusion Models</td>
@@ -146,14 +146,14 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Diffusing through life, mindless and careless</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Chris Williams](https://www.linkedin.com/in/chr1swilliams)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/chr1swilliams">Chris Williams</a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">26/03</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Understanding generalisation in diffusion models</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Tyler Farghly](https://tylerkf.github.io)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://tylerkf.github.io">Tyler Farghly</a></td>
     </tr>
     <tr>
       <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
@@ -161,15 +161,15 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>The interplay of scaling and generalization</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Amitis Shidani](https://www.linkedin.com/in/amitis-shidani-79764595/)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/amitis-shidani-79764595/">Amitis Shidani</a></td>
     </tr>
-        <tr>
+    <tr>
       <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">30/05</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Beating the odds: flexible models for predicting football scores</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Nick Zhang](linkedin.com/in/nick-zhang-81712217a) (University College Dublin)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/nick-zhang-81712217a">Nick Zhang</a> (University College Dublin)</td>
     </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Statistics meet <br>Probability</td>
@@ -184,68 +184,10 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">12:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Spectral Clustering for Directed Graphs</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Ning Zhang](linkedin.com/in/ning-zhang-a757b6138) (Statistics)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/ning-zhang-a757b6138">Ning Zhang</a> (Statistics)</td>
     </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker: <br> Causal Inference</td>
       <td style="padding: 8px; border: 1px solid #ddd;">09/07</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>A vibes based introduction to causal inference</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Daniel Manela](https://www.linkedin.com/in/dan-manela-b468a2195/)</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">09/07</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">17:30</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>A latent causal inference framework for ordinal variables</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Martina Scauda](https://martinascauda.github.io) (University of Cambridge)</td>
-    </tr>
-            <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">21/07</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Partial order hierarchies</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Jessie Jiang](https://www.linkedin.com/in/jessie-jiang0315/)  (Google)</td>
-    </tr>
-         <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">20/08</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Sophia Loizidou](https://www.linkedin.com/in/sophia-loizidou-29254b178/)  (University of Luxembourg)</td>
-    </tr>
-           <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">22/10</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">
-      Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Attention to Experimentation Is All You Need: What To Do When You Run Out Of Data to Train Your Models With
-</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Jakob Zeitler](https://jakobzeitler.github.io)</td>
-    </tr>
-    <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">05/11</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">
-      Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>How to train your <s>Dragon</s> LLM : An Introduction
-</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Silvia Sapora](https://www.linkedin.com/in/silvia-sapora/)</td>
-    </tr>
-      <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">19/11</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">
-      Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Optimising Optimisation: A New <s>Hope</s> Slope
-</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;">[Kevin Lam](https://www.linkedin.com/in/kevin-lam-4a90b423a/)</td>
-    </tr>
-  </tbody>
-</table>
+      <td style="padding: 8px; border: 1
