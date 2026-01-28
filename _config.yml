@@ -1,2 +1,5 @@
 title: "Young Statisticians Seminar"
 permalink: /:title/
+
+plugins:
+  - jekyll-sitemap
