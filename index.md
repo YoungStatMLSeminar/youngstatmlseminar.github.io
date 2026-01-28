@@ -138,7 +138,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Roy Griffiths Room, Keble College</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>Modelling Extremely Sparse Networks with Random Measures</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://valentinkil.github.io">Valentin Kilian</a>[]()</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://valentinkil.github.io">Valentin Kilian</a></td>
     </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Diffusion Models</td>
