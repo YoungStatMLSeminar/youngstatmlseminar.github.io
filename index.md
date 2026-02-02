@@ -100,6 +100,16 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://shahineb.github.io">Shahine Bouabid</a> (MIT)</td>
     </tr>
   </tbody>
+    <tbody>
+        <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Oxford Young <br> Statistician of the Year</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">04/02</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>Guidance for Diffusion Sampling with Applications to Black Hole Imaging</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.chrisjwilliams.com">Christopher Williams</a></td>
+    </tr>
+  </tbody>
 </table>
 
 
