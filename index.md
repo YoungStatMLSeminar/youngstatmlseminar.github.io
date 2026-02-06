@@ -78,7 +78,6 @@ For any question or request please contact [Valentin Kilian](https://valentinkil
 You can also subscribe to our [Google Calendar](https://calendar.google.com/calendar/u/1?cid=MzQ3YzM2Y2JjMGFkMmViYzkwZTNmNzA0ZTBmYWEwYjJkNjBiMzY3ZmMwODM5MDNjY2JiY2M1MWRlYjYwZGI5YUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 <h2>2026</h2>
-
 <table style="width:100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -91,23 +90,50 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
     </tr>
   </thead>
   <tbody>
-        <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+    <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">19/01</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Score-based generative emulation of impact-relevant Earth system model outputs</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer; font-weight: bold;">Score-based generative emulation of impact-relevant Earth system model outputs</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+            Enter the abstract for Shahine Bouabid's talk here.
+          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://shahineb.github.io">Shahine Bouabid</a> (MIT)</td>
     </tr>
-  </tbody>
-    <tbody>
-        <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Oxford Young <br> Statistician of the Year</td>
+    <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Oxford Young Statistician</td>
       <td style="padding: 8px; border: 1px solid #ddd;">04/02</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Guidance for Diffusion Sampling with Applications to Black Hole Imaging</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer; font-weight: bold;">Guidance for Diffusion Sampling with Applications to Black Hole Imaging</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+            Enter the abstract for Christopher Williams' talk here.
+          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.chrisjwilliams.com">Christopher Williams</a></td>
+    </tr>
+    <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11/02</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer; font-weight: bold;">From $1/\sqrt{n}$ to $1/n$: Accelerating SDE Simulation with Cubature Formulae</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+            Enter the abstract for Peter Koepernik's talk here.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/peter-koepernik/">Peter Koepernik</a> (OpenAI)</td>
     </tr>
   </tbody>
 </table>
