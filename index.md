@@ -97,9 +97,9 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer; font-weight: bold;">Score-based generative emulation of impact-relevant Earth system model outputs</summary>
+          <summary style="cursor: pointer;">Score-based generative emulation of impact-relevant Earth system model outputs</summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
-            Enter the abstract for Shahine Bouabid's talk here.
+            Policy targets evolve faster than the Couple Model Intercomparison Project cycles, complicating adaptation and mitigation planning that must often contend with outdated projections. Climate model output emulators address this gap by offering inexpensive surrogates that can rapidly explore alternative futures while staying close to Earth System Model (ESM) behavior. We focus on emulators designed to provide inputs to impact models. Using monthly ESM fields of near-surface temperature, precipitation, relative humidity, and wind speed, we show that deep generative models have the potential to model jointly the distribution of variables relevant for impacts. The specific model we propose uses score-based diffusion on a spherical mesh and runs on a single mid-range graphical processing unit. We introduce a thorough suite of diagnostics to compare emulator outputs with their parent ESMs, including their probability densities, cross-variable correlations, time of emergence, or tail behavior. We evaluate performance across three distinct ESMs in both pre-industrial and forced regimes. The results show that the emulator produces distributions that closely match the ESM outputs and captures key forced responses. They also reveal important failure cases, notably for variables with a strong regime shift in the seasonal cycle. Although not a perfect match to the ESM, the inaccuracies of the emulator are small relative to the scale of internal variability in ESM projections. We therefore argue that it shows potential to be useful in supporting impact assessment. We discuss priorities for future development toward daily resolution, finer spatial scales, and bias-aware training.
           </div>
         </details>
       </td>
@@ -112,9 +112,8 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer; font-weight: bold;">Guidance for Diffusion Sampling with Applications to Black Hole Imaging</summary>
+          <summary style="cursor: pointer;">Guidance for Diffusion Sampling with Applications to Black Hole Imaging</summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
-            Enter the abstract for Christopher Williams' talk here.
           </div>
         </details>
       </td>
@@ -127,9 +126,9 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer; font-weight: bold;">From $1/\sqrt{n}$ to $1/n$: Accelerating SDE Simulation with Cubature Formulae</summary>
+          <summary style="cursor: pointer;">From $1/\sqrt{n}$ to $1/n$: Accelerating SDE Simulation with Cubature Formulae</summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
-            Enter the abstract for Peter Koepernik's talk here.
+            Monte Carlo sampling is the standard approach for estimating properties of solutions to stochastic differential equations (SDEs), but its error decays only as 1/√n, requiring huge sample sizes. Lyons and Victoir (2004) proposed replacing independently sampled Brownian driving paths with "cubature formulae", deterministic weighted sets of paths that match Brownian "signature moments" up to some degree D. They prove that cubature formulae exist for arbitrary D, but explicit constructions are difficult and have only reached D=7, too small for practical use. We present an algorithm that efficiently and automatically constructs cubature formulae of arbitrary degree, reproducing D=7 in seconds and reaching D=19 within hours on modest hardware. In simulations across multiple SDEs, our cubature formulae achieve an error roughly of order 1/n, orders of magnitude smaller than Monte Carlo with the same number of paths.
           </div>
         </details>
       </td>
