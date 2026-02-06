@@ -97,7 +97,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer;">Score-based generative emulation of impact-relevant Earth system model outputs</summary>
+          <summary style="cursor: pointer;"><b>Score-based generative emulation of impact-relevant Earth system model outputs</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
             Policy targets evolve faster than the Couple Model Intercomparison Project cycles, complicating adaptation and mitigation planning that must often contend with outdated projections. Climate model output emulators address this gap by offering inexpensive surrogates that can rapidly explore alternative futures while staying close to Earth System Model (ESM) behavior. We focus on emulators designed to provide inputs to impact models. Using monthly ESM fields of near-surface temperature, precipitation, relative humidity, and wind speed, we show that deep generative models have the potential to model jointly the distribution of variables relevant for impacts. The specific model we propose uses score-based diffusion on a spherical mesh and runs on a single mid-range graphical processing unit. We introduce a thorough suite of diagnostics to compare emulator outputs with their parent ESMs, including their probability densities, cross-variable correlations, time of emergence, or tail behavior. We evaluate performance across three distinct ESMs in both pre-industrial and forced regimes. The results show that the emulator produces distributions that closely match the ESM outputs and captures key forced responses. They also reveal important failure cases, notably for variables with a strong regime shift in the seasonal cycle. Although not a perfect match to the ESM, the inaccuracies of the emulator are small relative to the scale of internal variability in ESM projections. We therefore argue that it shows potential to be useful in supporting impact assessment. We discuss priorities for future development toward daily resolution, finer spatial scales, and bias-aware training.
           </div>
@@ -120,7 +120,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer;">From $1/\sqrt{n}$ to $1/n$: Accelerating SDE Simulation with Cubature Formulae</summary>
+          <summary style="cursor: pointer;"><b>From $1/\sqrt{n}$ to $1/n$: Accelerating SDE Simulation with Cubature Formulae</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
             Monte Carlo sampling is the standard approach for estimating properties of solutions to stochastic differential equations (SDEs), but its error decays only as 1/√n, requiring huge sample sizes. Lyons and Victoir (2004) proposed replacing independently sampled Brownian driving paths with "cubature formulae", deterministic weighted sets of paths that match Brownian "signature moments" up to some degree D. They prove that cubature formulae exist for arbitrary D, but explicit constructions are difficult and have only reached D=7, too small for practical use. We present an algorithm that efficiently and automatically constructs cubature formulae of arbitrary degree, reproducing D=7 in seconds and reaching D=19 within hours on modest hardware. In simulations across multiple SDEs, our cubature formulae achieve an error roughly of order 1/n, orders of magnitude smaller than Monte Carlo with the same number of paths.
           </div>
@@ -245,7 +245,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
          <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer;">Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</summary>
+          <summary style="cursor: pointer;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
 Several complex real-world data can be viewed as points on the hyper-torus, which is the cartesian product of circles. Over the past few years, this has motivated new proposals of distributions on the torus, both (pointwise) symmetric and sine-skewed asymmetric. In practice, it is relevant to know whether one should use the simpler symmetric models or the more convoluted yet more general asymmetric ones. So far, only parametric likelihood ratio tests have been defined to distinguish between a symmetric density and its sine-skewed counterpart. In this talk, optimal tests for symmetry on the hyper-dimensional torus are presented, which are built leveraging Le Cam’s methodology.
 
@@ -264,7 +264,7 @@ This is joint work with A. Anastasiou and C. Ley.          </div>
       Large Lecture Theatre, Department of Statistics</td>
    <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer;">Attention to Experimentation Is All You Need: What To Do When You Run Out Of Data to Train Your Models With</summary>
+          <summary style="cursor: pointer;"><b>Attention to Experimentation Is All You Need: What To Do When You Run Out Of Data to Train Your Models With</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
 Machine Learning, on average, is a miracle for it identifies patterns in data with high-dimensionality, and yields inter- and extrapolation often considered better than human jugdement. ⁠Big data was an era which hold the promise that we can almost indefinitely mine all collected data for the patterns and make ever better predictions. While this worked out well for ad-targeting, meme recommendations, and possibly finance, most crucial and pressing issues simply don’t have an abundance of data. This talk explores the question of what do when you have run out of data to train on, or, when you are starting in a low-data regime in the first place. We discuss Active Learning, Bayesian Optimisation and how these are part of a growing revolution in applied science across the UK and the globe.          </div>
         </details>
@@ -279,7 +279,7 @@ Machine Learning, on average, is a miracle for it identifies patterns in data wi
       Large Lecture Theatre, Department of Statistics</td>
    <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer;">How to train your <s>Dragon</s> LLM : An Introduction</summary>
+          <summary style="cursor: pointer;"><b>How to train your <s>Dragon</s> LLM : An Introduction</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
 Have you ever wondered how powerful tools like ChatGPT actually learn to talk? This will be your beginner's guide to the technology behind LLMs and the multi-stage training process that brings them to life. We’ll start with a brief history, from the Transformer and encoder-decoder architectures to more modern approaches. We'll discuss pretraining, finetuning and Reinforcement Learning from Human Feedback. We'll also explore interesting training quirks, such as why models that have been trained extensively on programming code often develop superior reasoning and problem-solving skills across all domains. Finally, we'll look at the current state of the art, including breakthroughs like DeepSeek, and the emerging capabilities of LLMs to use external tools (like web search or calculators) to solve complex problems, taking them beyond just text generation.
           </div>
@@ -295,7 +295,7 @@ Have you ever wondered how powerful tools like ChatGPT actually learn to talk? T
       Large Lecture Theatre, Department of Statistics</td>
    <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
-          <summary style="cursor: pointer;">Optimising Optimisation: A New <s>Hope</s> Slope</summary>
+          <summary style="cursor: pointer;"><b>Optimising Optimisation: A New <s>Hope</s> Slope</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
 The reparameterisation trick is a fundamental method for parameterising and training deep probabilistic models. In this talk, we revisit the reparameterisation trick, and show how to reduce variance in its gradients. This lets us draw a connection between global and local reparameterisation gradients, and make low-variance gradients accessible to more probabilistic models.
           </div>
