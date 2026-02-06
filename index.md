@@ -262,8 +262,14 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
       Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>How to train your <s>Dragon</s> LLM : An Introduction
-</b></td>
+   <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;">How to train your <s>Dragon</s> LLM : An Introduction</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Have you ever wondered how powerful tools like ChatGPT actually learn to talk? This will be your beginner's guide to the technology behind LLMs and the multi-stage training process that brings them to life. We’ll start with a brief history, from the Transformer and encoder-decoder architectures to more modern approaches. We'll discuss pretraining, finetuning and Reinforcement Learning from Human Feedback. We'll also explore interesting training quirks, such as why models that have been trained extensively on programming code often develop superior reasoning and problem-solving skills across all domains. Finally, we'll look at the current state of the art, including breakthroughs like DeepSeek, and the emerging capabilities of LLMs to use external tools (like web search or calculators) to solve complex problems, taking them beyond just text generation.
+          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/silvia-sapora/">Silvia Sapora</a></td>
     </tr>
       <tr>
@@ -272,8 +278,14 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
       Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Optimising Optimisation: A New <s>Hope</s> Slope
-</b></td>
+   <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;">Optimising Optimisation: A New <s>Hope</s> Slope</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+The reparameterisation trick is a fundamental method for parameterising and training deep probabilistic models. In this talk, we revisit the reparameterisation trick, and show how to reduce variance in its gradients. This lets us draw a connection between global and local reparameterisation gradients, and make low-variance gradients accessible to more probabilistic models.
+          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/kevin-lam-4a90b423a/">Kevin Lam</a></td>
     </tr>
   </tbody>
