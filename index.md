@@ -243,7 +243,17 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">20/08</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;">Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Several complex real-world data can be viewed as points on the hyper-torus, which is the cartesian product of circles. Over the past few years, this has motivated new proposals of distributions on the torus, both (pointwise) symmetric and sine-skewed asymmetric. In practice, it is relevant to know whether one should use the simpler symmetric models or the more convoluted yet more general asymmetric ones. So far, only parametric likelihood ratio tests have been defined to distinguish between a symmetric density and its sine-skewed counterpart. In this talk, optimal tests for symmetry on the hyper-dimensional torus are presented, which are built leveraging Le Cam’s methodology.
+
+Both scenarios where the center of symmetry is known and where it is unknown are addressed. These tests are not only valid under a given parametric hypothesis but instead under a very broad class of symmetric distributions. The asymptotic behavior of the proposed tests is studied both under the null hypothesis and local alternatives, and a focus is given on the derivation of quantitative bounds on the distributional distance between the exact (unknown) distribution of the test statistic and its asymptotic counterpart using Stein’s method. The finite-sample performance of the tests is evaluated through simulation studies, and their practical utility is demonstrated via an application to protein folding data.
+
+This is joint work with A. Anastasiou and C. Ley.          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/sophia-loizidou-29254b178/">Sophia Loizidou</a> (University of Luxembourg)</td>
     </tr>
            <tr>
@@ -252,8 +262,13 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
       Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>Attention to Experimentation Is All You Need: What To Do When You Run Out Of Data to Train Your Models With
-</b></td>
+   <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;">Attention to Experimentation Is All You Need: What To Do When You Run Out Of Data to Train Your Models With</summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Machine Learning, on average, is a miracle for it identifies patterns in data with high-dimensionality, and yields inter- and extrapolation often considered better than human jugdement. ⁠Big data was an era which hold the promise that we can almost indefinitely mine all collected data for the patterns and make ever better predictions. While this worked out well for ad-targeting, meme recommendations, and possibly finance, most crucial and pressing issues simply don’t have an abundance of data. This talk explores the question of what do when you have run out of data to train on, or, when you are starting in a low-data regime in the first place. We discuss Active Learning, Bayesian Optimisation and how these are part of a growing revolution in applied science across the UK and the globe.          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://jakobzeitler.github.io">Jakob Zeitler</a></td>
     </tr>
     <tr>
