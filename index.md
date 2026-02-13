@@ -126,7 +126,31 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
           </div>
         </details>
       </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/peter-koepernik/">Peter Koepernik</a> (OpenAI)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://peter.koepernik.net">Peter Koepernik</a> (OpenAI)</td>
+    </tr>
+ <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">20/02</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b> Efficient Two-Sample Instrumental Variable Estimation and Over-Identification Testing</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+            Two-sample instrumental variables estimation arises when the first-stage relationship between endogenous regressors and instruments, and the reduced-form equation for the outcome, are observed in different samples - a setting that is increasingly common in empirical work combining multiple data sources. Using the two-sample IV framework of Inoue and Solon (2010), I compare one-step and two-step GMM estimators based on two-sample moment conditions. I show that the standard two-sample 2SLS estimator is not generally efficient, while a two-step GMM estimator that uses the correct moment variance achieves asymptotic efficiency.
+            I then develop a valid overidentification test for the two-sample setting. I derive a Hansen–Sargan–type J-statistic that accounts for sampling variability from both samples and show that it converges to a chi-square distribution with degrees of freedom equal to the number of overidentifying restrictions. The results clarify how classical IV testing procedures extend to two-sample designs and highlight the importance of using the appropriate asymptotic variance for valid inference.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/fatima-k-2b1a9a1a2/">Fatima Kasenally</a></td>
+    </tr>
+       <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">20/02</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBA</b></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://deeprochoudhury.github.io">Deepro Choudhury</a></td>
     </tr>
   </tbody>
 </table>
