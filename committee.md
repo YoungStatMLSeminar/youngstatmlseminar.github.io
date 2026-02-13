@@ -67,7 +67,7 @@ ul li a:hover {
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Secretary)</li>
     <li><strong><a href="https://jakobzeitler.github.io">Dr. Jakob Zeitler</a></strong> (Industrial Liaison Advisor)</li>
     <li><strong><a href="https://www.linkedin.com/in/jessie-jiang0315/">Dr. Jessie Jiang</a></strong> (Industrial Liaison Advisor)</li>
-    <li><strong><a href="https://jakiw.com">Dr. Jakiw Pidstrigach</a></strong>(Industrial Liaison Advisor)</li>
+    <li><strong><a href="https://jakiw.com">Dr. Jakiw Pidstrigach</a></strong> (Industrial Liaison Advisor)</li>
 
     <li><strong><a href="https://linyingyang.github.io">Linying Yang</a></strong> (EDI Lead)</li>
   </ul>
@@ -80,7 +80,7 @@ ul li a:hover {
     <li><strong><a href="https://www.linkedin.com/in/isobel-howard/">Isobel Howard</a></strong> (External Advisor)</li>
     <li><strong>Dr. Adrian Fischer</strong> (Senior Advisor)</li>
     <li><strong><a href="https://www.linkedin.com/in/laura-battaglia-05bb5980/">Laura Battaglia</a></strong> (Senior Advisor)</li>
-    <li><strong><a href="https://www.linkedin.com/in/vik-shirvaikar/">Vik Shirvaikar</a></strong> (Senior Advisor)</li>
+    <li><strong><a href="https://www.linkedin.com/in/vik-shirvaikar/">Dr. Vik Shirvaikar</a></strong> (Senior Advisor)</li>
   </ul>
 </body>
 </html>
