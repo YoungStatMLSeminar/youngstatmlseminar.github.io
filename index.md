@@ -149,7 +149,14 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">20/02</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><b>TBA</b></td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b> BED-LLM: Intelligent Information Gathering with LLMs and Bayesian Experimental Design</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+            We propose a general-purpose approach for improving the ability of large language models (LLMs) to intelligently and adaptively gather information from a user or other external source using the framework of sequential Bayesian experimental design (BED). This enables LLMs to act as effective multi-turn conversational agents and interactively interface with external environments. Our approach, which we call BED-LLM (Bayesian experimental design with large language models), is based on iteratively choosing questions or queries that maximize the expected information gain (EIG) about the task of interest given the responses gathered previously. We show how this EIG can be formulated (and then estimated) in a principled way using a probabilistic model derived from the LLM's predictive distributions and provide detailed insights into key decisions in its construction and updating procedure. We find that BED-LLM achieves substantial gains in performance across a wide range of tests based on the 20 Questions game and using the LLM to actively infer user preferences, compared to direct prompting of the LLM and other adaptive design strategies.
+          </div>
+        </details>
+      </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://deeprochoudhury.github.io">Deepro Choudhury</a></td>
     </tr>
   </tbody>

@@ -68,7 +68,6 @@ ul li a:hover {
     <li><strong><a href="https://jakobzeitler.github.io">Dr. Jakob Zeitler</a></strong> (Industrial Liaison Advisor)</li>
     <li><strong><a href="https://www.linkedin.com/in/jessie-jiang0315/">Dr. Jessie Jiang</a></strong> (Industrial Liaison Advisor)</li>
     <li><strong><a href="https://jakiw.com">Dr. Jakiw Pidstrigach</a></strong> (Industrial Liaison Advisor)</li>
-
     <li><strong><a href="https://linyingyang.github.io">Linying Yang</a></strong> (EDI Lead)</li>
   </ul>
 
