@@ -159,6 +159,51 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://deeprochoudhury.github.io">Deepro Choudhury</a></td>
     </tr>
+           <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">04/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">15:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b> A Friendly Talk on Bandit Convex Optimization in Changing Environments</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+          We present Bandit Convex Optimization in non-stationary environments, where the learner selects actions from a continuous domain and observes losses at only one point per round. We aim to minimize regret under three natural non-stationarity measures: the number of switches S, total variation V, and path-length P. We propose TEWA-SE (Tilted Exponentially Weighted Average with Sleeping Experts), a polynomial-time algorithm adapting the sleeping experts framework to the bandit setting. For strongly convex losses, TEWA-SE achieves minimax-optimal regret with respect to S and V, with matching upper and lower bounds. For general convex losses, we introduce cExO (clipped Exploration by Optimization), which achieves minimax-optimal regret for S and V, and improves existing bounds for P. Time permitting, we will also discuss related parameter-free approaches based on coin betting. We will keep the focus on intuition and high-level ideas, with the goal of distilling principles that are broadly applicable to sequential decision-making under non-stationarity.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://shirleyliuxq.github.io">Xiaoqi (Shirley) Liu</a></td>
+    </tr>
+           <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">04/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">15:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b> Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+          We introduce time-to-unsafe-sampling, a novel safety measure for generative models, defined as the number of generations required by a large language model (LLM) to trigger an unsafe (e.g., toxic) response. While providing a new dimension for prompt-adaptive safety evaluation, quantifying time-to-unsafe-sampling is challenging: unsafe outputs are often rare in well-aligned models and thus may not be observed under any feasible sampling budget. To address this challenge, we frame this estimation problem as one of survival analysis. We build on recent developments in conformal prediction and propose a novel calibration technique to construct a lower predictive bound (LPB) on the time-to-unsafe-sampling of a given prompt with rigorous coverage guarantees. Our key technical innovation is an optimized sampling-budget allocation scheme that improves sample efficiency while maintaining distribution-free guarantees. Experiments on both synthetic and real data support our theoretical results and demonstrate the practical utility of our method for safety risk assessment in generative AI models.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/hen-davidov/?originalSubdomain=il">Hen Davidov</a></td>
+    </tr>
+              <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">OxCSML x OxYSS</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">06/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">15:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Recent Advances in Conformal Prediction with E-Values</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+          Conformal prediction has become a versatile framework for distribution-free uncertainty quantification, offering coverage guarantees under minimal assumptions. Traditionally, these methods rely on p-values to ensure marginal coverage when all data are exchangeable. More recently, e-values have emerged as a powerful and flexible tool in statistics. Their integration into conformal prediction has opened the door to constructing valid prediction sets in more complex and challenging settings. In this talk, I will provide an overview of these advances, explain the key ideas behind using e-values in conformal prediction, and highlight examples that demonstrate both their promise and the open questions they raise.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://gauthiere.github.io">Etienne Gauthier (INRIA)</a></td>
+    </tr>
   </tbody>
 </table>
 
