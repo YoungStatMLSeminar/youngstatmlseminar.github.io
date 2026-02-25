@@ -202,7 +202,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
           </div>
         </details>
       </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://gauthiere.github.io">Etienne Gauthier (INRIA)</a></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://gauthiere.github.io">Etienne Gauthier</a> (INRIA)</td>
     </tr>
   </tbody>
 </table>
