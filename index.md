@@ -204,6 +204,34 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://gauthiere.github.io">Etienne Gauthier</a> (INRIA)</td>
     </tr>
+        <tr>
+      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Statistics meet <br>Mathematics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>A hierarchical modelling approach for Bayesian Causal Forests on longitudinal data</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+          Imaging-Derived Phenotypes (IDPs), such as brain volume change, provide sensitive longitudinal markers of disease progression and treatment response across clinical trials. However, drawing causal conclusions from longitudinal IDPs is statistically challenging: follow-up times are irregular, repeated measurements induce within-individual correlation, and scanner-related variability introduces substantial non-biological heterogeneity. Bayesian Additive Regression Trees (BART) and their extension, Bayesian Causal Forests (BCF), provide flexible, nonparametric tools for estimating heterogeneous treatment effects in complex settings. Yet, both models are inherently cross-sectional, assuming independence across observations and therefore failing to account for within-individual correlation over time. Motivated by the NO.MS dataset, the largest and most comprehensive clinical trial dataset in Multiple Sclerosis (MS), we develop BCFLong, a hierarchical extension of BCF for longitudinal analysis, which preserves the flexibility of BART while explicitly modelling irregular follow-up and scanner-related heterogeneity. Inspired by BCF, we decompose the fixed effect mean into two components, using the former to isolate non-biological scanner effects and the latter to model the treatment effect, and we introduce individual-specific random effects, including random intercept and time-dependent slope, with a sparsity-inducing horseshoe prior. Simulations confirm BCFLong’s superior performance and robustness to sparsity, and on the NO.MS dataset, BCFLong reveals clinically meaningful longitudinal treatment effects on brain volume change that cannot be recovered by existing cross-sectional or trial-level methods.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/emma-prevot-74b2571a1/">Emma Prevot</a> (Statistics)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">11/03</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:30</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Advances in Neural Controlled Differential Equations</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+           Many real-world systems evolve continuously, yet most machine learning models interpret time series as discrete sequences. Continuous-time approaches instead treat time series as samples from an underlying input path, a formulation that naturally accommodates irregularly sampled or oversampled data. Among these, Neural Controlled Differential Equations (NCDEs) are a maximally expressive class of models that parametrise a vector field using a neural network and evolve their hidden state by solving a dynamical system driven by the input path. This talk presents three contributions that improve the training, scalability, and interpretability of NCDEs. First, building on neural rough differential equations, Log-NCDEs apply the Log-ODE method to efficiently approximate an NCDE's solution during training, improving both computational speed and empirical performance. Second, Linear NCDEs replace the non-linear vector field with a linear one, enabling closed-form solutions and parallel-in-time computation without sacrificing theoretical expressivity. Third, Structured Linear NCDEs use structured linear vector fields to further enhance efficiency while maintaining theoretical expressiveness and empirical performance. Collectively, these methods reduce the time per training step for NCDEs by up to three orders of magnitude while achieving state-of-the-art performance across diverse time series benchmarks.
+          </div>
+        </details>
+      </td>      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://benwalker.co.uk">Benjamin Walker</a> ((Mathematical Institute))</td>
+    </tr>
   </tbody>
 </table>
 
