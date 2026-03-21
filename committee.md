@@ -73,7 +73,7 @@ ul li a:hover {
 
   <h3>Scientific Committee</h3>
   <ul>
-    <li><strong><a href="https://www.linkedin.com/in/silvia-sapora/">Silvia Sapora</a></strong> (President)</li>
+    <li><strong><a href="https://silviasapora.github.io">Silvia Sapora</a></strong> (President)</li>
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Vice President)</li>
     <li><strong><a href="https://www.linkedin.com/in/deepak-badarinath-69347a137/">Deepak Badarinath</a></strong> (Vice President)</li>
     <li><strong><a href="https://www.linkedin.com/in/isobel-howard/">Isobel Howard</a></strong> (External Advisor)</li>

@@ -389,7 +389,7 @@ Have you ever wondered how powerful tools like ChatGPT actually learn to talk? T
           </div>
         </details>
       </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/silvia-sapora/">Silvia Sapora</a></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://silviasapora.github.io">Silvia Sapora</a></td>
     </tr>
       <tr>
       <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Keynote talk</td>
