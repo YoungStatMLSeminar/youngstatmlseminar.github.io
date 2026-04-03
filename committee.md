@@ -79,7 +79,7 @@ ul li a:hover {
     <li><strong><a href="https://www.linkedin.com/in/isobel-howard/">Isobel Howard</a></strong> (External Advisor)</li>
     <li><strong>Dr. Adrian Fischer</strong> (Senior Advisor)</li>
     <li><strong><a href="https://www.linkedin.com/in/laura-battaglia-05bb5980/">Laura Battaglia</a></strong> (Senior Advisor)</li>
-    <li><strong><a href="https://www.linkedin.com/in/vik-shirvaikar/">Dr. Vik Shirvaikar</a></strong> (Senior Advisor)</li>
+    <li><strong><a href="https://vikshirvaikar.com">Dr. Vik Shirvaikar</a></strong> (Senior Advisor)</li>
   </ul>
 </body>
 </html>

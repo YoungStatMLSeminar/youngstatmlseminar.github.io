@@ -232,6 +232,37 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
         </details>
       </td>      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://benwalker.co.uk">Benjamin Walker</a> (Mathematical Institute)</td>
     </tr>
+    <tr>
+      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Sponsored sessions: <br>Quadrature</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">14/04</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>TBA</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+          TBA
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://quadrature.ai">Sebastian Monnet</a> (Quadrature)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">14/04</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">17:45</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Martingale posteriors: hype, hopes and headaches</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Martingale posteriors, or perhaps better, predictive-resampling posteriors, provide a predictive route to posterior inference. Rather than specifying a likelihood–prior pair, one specifies a predictive rule, and a parameter or estimand of interest, viewed as a functional of the limiting empirical distribution of the observables. Posterior uncertainty is then approximated by forward-simulating the data beyond the observed sample via the predictive rule, and recomputing that functional on the completed dataset; this Monte Carlo scheme is predictive resampling.
+
+In this talk I will discuss the hype: the appeal of the framework is both conceptual and computational, since it treats parameter uncertainty as uncertainty about missing data, can avoid explicit prior elicitation, and provides an embarrassingly parallel route to posterior sampling that bypasses MCMC. It also suggests a way for turning strong predictive models into engines for posterior inference, including hybrids that reintroduce prior structure while leveraging models whose predictive distributions are more useful than their native uncertainty outputs for posterior inference.
+
+I will also discuss the hopes and the headaches: the ambitions and current frontier of the field, alongside the challenges of constructing predictive updates that lead to a well-defined limiting law, interpreting the induced uncertainty, and controlling the cost of repeated predictive updating.          </div>
+        </details>
+      </td>      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/laura-battaglia-05bb5980/">Laura Battaglia</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -256,7 +287,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;"><b>The predictive approach to uncertainty quantification</b></td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/vik-shirvaikar/">Vik Shirvaikar</a></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://vikshirvaikar.com">Vik Shirvaikar</a></td>
     </tr>
     <tr>
       <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Random Graphs</td>
