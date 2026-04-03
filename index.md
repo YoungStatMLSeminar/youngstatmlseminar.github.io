@@ -91,7 +91,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
   </thead>
   <tbody>
     <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished <br> speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">19/01</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
@@ -114,7 +114,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.chrisjwilliams.com">Christopher Williams</a></td>
     </tr>
     <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished <br> speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11/02</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
@@ -328,7 +328,7 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/amitis-shidani-79764595/">Amitis Shidani</a></td>
     </tr>
         <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished <br> speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">30/05</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
@@ -351,7 +351,7 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="linkedin.com/in/ning-zhang-a757b6138">Ning Zhang</a> (Statistics)</td>
     </tr>
     <tr>
-      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker: <br> Causal Inference</td>
+      <td rowspan="2" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished <br> speaker: <br> Causal Inference</td>
       <td style="padding: 8px; border: 1px solid #ddd;">09/07</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Ground floor Social Area, Department of Statistics</td>
@@ -366,7 +366,7 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://martinascauda.github.io">Martina Scauda</a> (University of Cambridge)</td>
     </tr>
             <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished <br> speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">21/07</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
@@ -374,7 +374,7 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/jessie-jiang0315/">Jessie Jiang</a> (Google)</td>
     </tr>
          <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished speaker</td>
+      <td rowspan="1" style="writing-mode: vertical-rl;  padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished <br> speaker</td>
       <td style="padding: 8px; border: 1px solid #ddd;">20/08</td>
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
