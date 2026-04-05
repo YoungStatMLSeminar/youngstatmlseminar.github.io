@@ -252,7 +252,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">17:45</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
       <td style="padding: 8px; border: 1px solid #ddd;">
-        <details>
+        <details markdown="1">
           <summary style="cursor: pointer;"><b>Martingale posteriors: hype, hopes and headaches</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
 Martingale posteriors, or perhaps better, predictive-resampling posteriors, provide a predictive route to posterior inference. Rather than specifying a likelihood–prior pair, one specifies a predictive rule, and a parameter or estimand of interest, viewed as a functional of the limiting empirical distribution of the observables. Posterior uncertainty is then approximated by forward-simulating the data beyond the observed sample via the predictive rule, and recomputing that functional on the completed dataset; this Monte Carlo scheme is predictive resampling.\
@@ -379,10 +379,10 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Second floor Open Research Area, Department of Statistics</td>
          <td style="padding: 8px; border: 1px solid #ddd;">
-        <details>
+        <details markdown="1">
           <summary style="cursor: pointer;"><b>Testing Symmetry on the Torus: Le Cam Theory Meets Stein’s Method</b></summary>
           <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
-Several complex real-world data can be viewed as points on the hyper-torus, which is the cartesian product of circles. Over the past few years, this has motivated new proposals of distributions on the torus, both (pointwise) symmetric and sine-skewed asymmetric. In practice, it is relevant to know whether one should use the simpler symmetric models or the more convoluted yet more general asymmetric ones. So far, only parametric likelihood ratio tests have been defined to distinguish between a symmetric density and its sine-skewed counterpart. In this talk, optimal tests for symmetry on the hyper-dimensional torus are presented, which are built leveraging Le Cam’s methodology.
+Several complex real-world data can be viewed as points on the hyper-torus, which is the cartesian product of circles. Over the past few years, this has motivated new proposals of distributions on the torus, both (pointwise) symmetric and sine-skewed asymmetric. In practice, it is relevant to know whether one should use the simpler symmetric models or the more convoluted yet more general asymmetric ones. So far, only parametric likelihood ratio tests have been defined to distinguish between a symmetric density and its sine-skewed counterpart. In this talk, optimal tests for symmetry on the hyper-dimensional torus are presented, which are built leveraging Le Cam’s methodology.\
 
 Both scenarios where the center of symmetry is known and where it is unknown are addressed. These tests are not only valid under a given parametric hypothesis but instead under a very broad class of symmetric distributions. The asymptotic behavior of the proposed tests is studied both under the null hypothesis and local alternatives, and a focus is given on the derivation of quantitative bounds on the distributional distance between the exact (unknown) distribution of the test statistic and its asymptotic counterpart using Stein’s method. The finite-sample performance of the tests is evaluated through simulation studies, and their practical utility is demonstrated via an application to protein folding data.
 
