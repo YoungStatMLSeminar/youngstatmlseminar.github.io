@@ -237,14 +237,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
       <td style="padding: 8px; border: 1px solid #ddd;">14/04</td>
       <td style="padding: 8px; border: 1px solid #ddd;">17:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">
-        <details>
-          <summary style="cursor: pointer;"><b>TBA</b></summary>
-          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
-          TBA
-          </div>
-        </details>
-      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><b>True facts about quant finance - what actually is it?</b></td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://quadrature.ai">Sebastian Monnet</a> (Quadrature)</td>
     </tr>
     <tr>
