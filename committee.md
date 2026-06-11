@@ -61,8 +61,8 @@ ul li a:hover {
 <body>
   <h3>Executive Committee</h3>
   <ul>
-    <li><strong><a href="https://www.linkedin.com/in/dan-manela-b468a2195/">Daniel Manela</a></strong> (Interim president - Treasurer)</li>
-    <!--<li><strong><a href="https://valentinkil.github.io">Valentin Kilian</a></strong> (Founder)</li>-->
+    <li><strong><a href="https://valentinkil.github.io">Valentin Kilian</a></strong> (President)</li>
+    <li><strong><a href="https://www.linkedin.com/in/dan-manela-b468a2195/">Daniel Manela</a></strong> (Treasurer)</li>
     <li><strong><a href="https://www.chrisjwilliams.com">Christopher Williams</a></strong> (Vice President)</li>
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Secretary)</li>
     <li><strong><a href="https://jakobzeitler.github.io">Dr. Jakob Zeitler</a></strong> (Industrial Liaison Advisor)</li>
