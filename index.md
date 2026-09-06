@@ -258,7 +258,21 @@ I will also discuss the hopes and the headaches: the ambitions and current front
     </tr>
   </tbody>
 </table>
-
+              <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">OxCSML x OxYSS</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">29/05</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Large Lecture Theatre, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>On Prediction-Powered E-Values</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+       Quality statistical inference requires a sufficient amount of data, which can be missing or hard to obtain. To this end, prediction-powered inference has risen as a promising methodology, but most approaches are limited to Z-estimation problems such as inference of means and quantiles. In this talk, I’ll outline recent work on extending prediction-powered inference to e-values. By doing so, we inherit all the usual benefits of e-values — such as anytime-validity, post-hoc validity and versatile sequential inference — as well as greatly expand the set of inferences achievable in a prediction-powered manner. Our results encompass both the active setting (where data collection happens in tandem with inference) as well as the offline setting (where we do inference atop previously collected data). For the active case in particular, we furthermore propose a procedure whose sample complexity is provably no worse than that of non-prediction-powered methods.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://dccsillag.xyz">Daniel Csillag</a> (FGV EMAp, Brazil)</td>
+    </tr>
 
 <h2>2025</h2>
 
