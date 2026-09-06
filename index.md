@@ -256,9 +256,7 @@ I will also discuss the hopes and the headaches: the ambitions and current front
         </details>
       </td>      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/laura-battaglia-05bb5980/">Laura Battaglia</a></td>
     </tr>
-  </tbody>
-</table>
-              <tr>
+    <tr>
       <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">OxCSML x OxYSS</td>
       <td style="padding: 8px; border: 1px solid #ddd;">29/05</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
@@ -273,6 +271,9 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://dccsillag.xyz">Daniel Csillag</a> (FGV EMAp, Brazil)</td>
     </tr>
+  </tbody>
+</table>
+
 
 <h2>2025</h2>
 
