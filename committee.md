@@ -66,21 +66,30 @@ ul li a:hover {
     <li><strong><a href="https://www.chrisjwilliams.com">Christopher Williams</a></strong> (Vice President)</li>
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Secretary)</li>
     <li><strong><a href="https://jakobzeitler.github.io">Dr. Jakob Zeitler</a></strong> (Industrial Liaison Advisor)</li>
-    <li><strong><a href="https://www.linkedin.com/in/jessie-jiang0315/">Dr. Jessie Jiang</a></strong> (Industrial Liaison Advisor)</li>
-    <li><strong><a href="https://jakiw.com">Dr. Jakiw Pidstrigach</a></strong> (Industrial Liaison Advisor)</li>
-    <li><strong><a href="https://linyingyang.github.io">Linying Yang</a></strong> (EDI Lead)</li>
+        <li><strong><a href="https://www.linkedin.com/in/eleanor-trollope/">Eleanor Trollope</a></strong> (EDI rep)</li>
+
   </ul>
 
   <h3>Scientific Committee</h3>
   <ul>
     <li><strong><a href="https://silviasapora.github.io">Silvia Sapora</a></strong> (President)</li>
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Vice President)</li>
+    <li><strong><a href="https://www.linkedin.com/in/laura-battaglia-05bb5980/">Laura Battaglia</a></strong>(Vice President)</li>
     <li><strong><a href="https://www.linkedin.com/in/deepak-badarinath-69347a137/">Deepak Badarinath</a></strong> (Vice President)</li>
     <li><strong><a href="https://www.linkedin.com/in/isobel-howard/">Isobel Howard</a></strong> (External Advisor)</li>
+  </ul>
+
+    <br>
+
+
+    <h3>Advisory Board</h3>
+  <ul>
+    <li><strong><a href="https://www.linkedin.com/in/jessie-jiang0315/">Dr. Jessie Jiang</a></strong></li>
+    <li><strong><a href="https://jakiw.com">Dr. Jakiw Pidstrigach</a></strong></li>
+    <li><strong><a href="https://linyingyang.github.io">Dr. Linying Yang</a></strong></li>
+    <li><strong><a href="https://vikshirvaikar.com">Dr. Vik Shirvaikar</a></strong> </li>
+    <li><strong><a href="https://tylerkf.github.io">Dr. Tyler Farghly</a></strong></li>
     <li><strong>Dr. Adrian Fischer</strong> (Senior Advisor)</li>
-    <li><strong><a href="https://www.linkedin.com/in/laura-battaglia-05bb5980/">Laura Battaglia</a></strong> (Senior Advisor)</li>
-    <li><strong><a href="https://vikshirvaikar.com">Dr. Vik Shirvaikar</a></strong> (Senior Advisor)</li>
-    <li><strong><a href="https://tylerkf.github.io">Dr. Tyler Farghly</a></strong> (Senior Advisor)</li>
   </ul>
 </body>
 </html>
