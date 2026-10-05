@@ -271,6 +271,21 @@ I will also discuss the hopes and the headaches: the ambitions and current front
       </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://dccsillag.xyz">Daniel Csillag</a> (FGV EMAp, Brazil)</td>
     </tr>
+        <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">14/10</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Bayesian Adversarial Privacy</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Theoretical and applied research into privacy encompasses an incredibly broad swathe of differing approaches, emphases and aims. This work introduces a novel quantitative notion of privacy that is both contextual and specific. Building on and extending ideas from statistical disclosure control and differential privacy, our aim is to model the implications of a disclosure decision in an adversarial setting. Our definition relies on concepts inherent to standard Bayesian decision theory, while departing from them in several important respects. In particular, (i) inference about the data itself becomes meaningful and (ii) the party controlling the release of sensitive information should make disclosure decisions from the prior viewpoint, rather than conditional on the data, which is a feature shared with Bayesian design. Illuminating toy examples are exploited towards highlighting the specificities of the method.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://sites.google.com/view/aluciano">Antoine Luciano</a></td>
+    </tr>
   </tbody>
 </table>
 
