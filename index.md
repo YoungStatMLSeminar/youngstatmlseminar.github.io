@@ -301,7 +301,7 @@ Time Series Foundation Models (TSFMs) currently provide state-of-the-art results
           </div>
         </details>
       </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://hashimotocullen.github.io">Chloé Hashimoto-Cullen</a>(Sorbonne Université)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://hashimotocullen.github.io">Chloé Hashimoto-Cullen</a> (Sorbonne Université)</td>
     </tr>
   </tbody>
 </table>
