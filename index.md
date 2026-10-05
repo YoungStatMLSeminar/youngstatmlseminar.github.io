@@ -286,6 +286,22 @@ Theoretical and applied research into privacy encompasses an incredibly broad sw
       </td>
       <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://sites.google.com/view/aluciano">Antoine Luciano</a></td>
     </tr>
+        </tr>
+        <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">23/10</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Latent Inference-Time Guidance of Time Series Foundation Models</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Time Series Foundation Models (TSFMs) currently provide state-of-the-art results in forecasting tasks. They are available out-of-the-box and rely on in-context learning to make their predictions, which makes the quality of their performance highly sensitive to the user-selected lookback, covariates, horizon and training data distributions. In practise, the quality of the forecasts are variable but complementary, which highlights the need for a principled ensembling approach, rather than selecting the best context. This talk introduces Latent Inference-Time Guidance for TSFMs, which adaptively combines a pool of TSFM forecasts through a time-dependent latent space with independent components. The framework comes equipped with identifiability and reconstruction guarantees, whilst maintaining the off-the-shelf aspect of foundation models. We provide experiments on datasets at various frequencies and from multiple domains: these show that the approach is competitive with traditional ensembling approaches. Based on joint work with Amaury Durand, Laurent Bozzi, Benjamin Guedj, Yannig Goude and Sylvain Le Corff.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://hashimotocullen.github.io">Chloé Hashimoto-Cullen (Sorbonne Université</a></td>
+    </tr>
   </tbody>
 </table>
 
