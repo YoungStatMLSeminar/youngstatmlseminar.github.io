@@ -90,6 +90,22 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished
+speaker</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">28/10</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Steering Diffusion Models to Rare Events with Sequential Monte Carlo</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Diffusion models are increasingly used as surrogates for expensive physical simulators in domains such as weather forecasting, molecular dynamics and materials design. In these settings, computing the probability of an event is difficult, especially when the event of interest is rare. In this talk, we show how to efficiently draw rare-event samples from a pretrained diffusion model using inference-time steering. We also demonstrate that the denoising process itself provides a natural annealing bridge for Sequential Monte Carlo, enabling efficient rare-event probability estimation.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://aavashsubedi.github.io">Aavash Subedi</a></td>
+    </tr>
         <tr>
       <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished
 speaker</td>
