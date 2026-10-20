@@ -89,7 +89,7 @@ ul li a:hover {
     <li><strong><a href="https://linyingyang.github.io">Dr. Linying Yang</a></strong></li>
     <li><strong><a href="https://vikshirvaikar.com">Dr. Vik Shirvaikar</a></strong> </li>
     <li><strong><a href="https://tylerkf.github.io">Dr. Tyler Farghly</a></strong></li>
-    <li><strong>Dr. Adrian Fischer</strong> (Senior Advisor)</li>
+    <li><strong>Dr. Adrian Fischer</strong></li>
   </ul>
 </body>
 </html>

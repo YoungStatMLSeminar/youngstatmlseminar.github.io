@@ -91,8 +91,7 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
   </thead>
   <tbody>
    <tr>
-      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;">Distinguished
-speaker</td>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
       <td style="padding: 8px; border: 1px solid #ddd;">28/10</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
