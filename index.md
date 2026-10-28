@@ -92,6 +92,21 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
   <tbody>
    <tr>
       <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">04/11</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">TBA</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Statistical Lengths for Diffusion Prior Complexity and Compatibility</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Diffusion models are increasingly used as priors for scientific inverse problems, such as black hole imaging, where the true image is never observed directly and the prior influences what we reconstruct. But how do you know whether a given prior is compatible with your likelihood? We propose a diagnostic that compares how much correction work the sampler needs to reach the posterior with how much it needs to sample the prior itself.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/eleanor-trollope/">Eleanor Trollope</a></td>
+    </tr>
+   <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
       <td style="padding: 8px; border: 1px solid #ddd;">28/10</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
