@@ -65,6 +65,7 @@ ul li a:hover {
     <li><strong><a href="https://www.linkedin.com/in/dan-manela-b468a2195/">Daniel Manela</a></strong> (Treasurer)</li>
     <li><strong><a href="https://www.chrisjwilliams.com">Christopher Williams</a></strong> (Vice President)</li>
         <li><strong><a href="https://www.stats.ox.ac.uk/people/leo-tyrpak">Leo Tyrpak</a></strong> (Vice President)</li>
+                <li><strong><a href="https://aavashsubedi.github.io">Aavash Subedi</a></strong> (Vice President)</li>
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Secretary)</li>
     <li><strong><a href="https://jakobzeitler.github.io">Dr. Jakob Zeitler</a></strong> (Industrial Liaison Advisor)</li>
         <li><strong><a href="https://www.linkedin.com/in/eleanor-trollope/">Eleanor Trollope</a></strong> (EDI rep)</li>
