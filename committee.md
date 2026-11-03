@@ -68,7 +68,7 @@ ul li a:hover {
                 <li><strong><a href="https://aavashsubedi.github.io">Aavash Subedi</a></strong> (Vice President)</li>
     <li><strong><a href="https://stefanocortinovis.github.io">Stefano Cortinovis</a></strong> (Secretary)</li>
     <li><strong><a href="https://jakobzeitler.github.io">Dr. Jakob Zeitler</a></strong> (Industrial Liaison Advisor)</li>
-        <li><strong><a href="https://www.linkedin.com/in/eleanor-trollope/">Eleanor Trollope</a></strong> (EDI rep)</li>
+        <li><strong><a href="https://eleanortrollope.github.io">Eleanor Trollope</a></strong> (EDI rep)</li>
 
   </ul>
 
