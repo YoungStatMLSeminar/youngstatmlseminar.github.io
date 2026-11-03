@@ -103,7 +103,7 @@ Diffusion models are increasingly used as priors for scientific inverse problems
           </div>
         </details>
       </td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://www.linkedin.com/in/eleanor-trollope/">Eleanor Trollope</a></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://eleanortrollope.github.io">Eleanor Trollope</a></td>
     </tr>
    <tr>
       <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
