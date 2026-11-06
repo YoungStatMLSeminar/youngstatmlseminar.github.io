@@ -90,11 +90,26 @@ You can also subscribe to our [Google Calendar](https://calendar.google.com/cale
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">11/11</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
+         <td style="padding: 8px; border: 1px solid #ddd;">
+        <details>
+          <summary style="cursor: pointer;"><b>Permutation-Invariant Spectral Learning via Dyson Diffusion</b></summary>
+          <div style="padding-top: 8px; font-weight: normal; font-size: 0.9em; color: #555;">
+Diffusion models are central to generative modeling and have been adapted to graphs by diffusing adjacency matrix representations. The challenge of having up to n! such representations for graphs with n nodes is only partially mitigated by using permutation-equivariant learning architectures. Despite their computational efficiency, existing graph diffusion models struggle to distinguish certain graph families and their spectra, unless graph data are augmented with ad hoc features. This shortcoming stems from enforcing the inductive bias within the learning architecture. In this work, we leverage random matrix theory to analytically extract the spectral properties of the diffusion process, allowing us to push most of the inductive bias from the architecture into the dynamics. Building on this, we introduce the Dyson Diffusion Model, which employs Dyson's Brownian motion to capture the spectral dynamics of an Ornstein-Uhlenbeck process on the adjacency matrix. Furthermore, conditioned on the spectral dynamics, we formulate a Lie group diffusion, appropriately modeling the remaining degrees of freedom. Strikingly, the resulting learning problem becomes permutation invariant at the Lie algebra level. We demonstrate that the Dyson Diffusion Model learns graph spectra accurately and outperforms existing graph diffusion models.This is joint work with Cai Dieball, Constantin Kogler, Renaud Lambiotte, Arnaud Doucet, Aljaz Godec, and George Deligiannidis, accepted at NeurIPS 2026.
+          </div>
+        </details>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://tassilo-schwarz.com">Tassilo Schwarz</a></td>
+    </tr>
    <tr>
       <td rowspan="1" style="writing-mode: vertical-rl; padding: 8px; border: 1px solid #ddd; background-color: #f9f9f9; font-weight: bold;"></td>
       <td style="padding: 8px; border: 1px solid #ddd;">04/11</td>
       <td style="padding: 8px; border: 1px solid #ddd;">16:00</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">TBA</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Small Lecture Theatre, Department of Statistics</td>
          <td style="padding: 8px; border: 1px solid #ddd;">
         <details>
           <summary style="cursor: pointer;"><b>Statistical Lengths for Diffusion Prior Complexity and Compatibility</b></summary>
